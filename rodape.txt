@@ -1,0 +1,4 @@
+<table border="1" width="100%"><tr><td align="center"><a href="https://www.facebook.com/yugiohunlimited"><b style="color: black;">Página oficial no </b><b style="color: blue;">Facebook</b></a></td></tr></table>
+<div style="overflow: hidden; width: 100%; height: 40%; border: 0;">
+<p align="center">Yu-Gi-Oh™ é uma marca registrada da Konami Corporation. Sua utilização nesse site é de caráter exclusivo ao seu fã game.</p>
+</div>

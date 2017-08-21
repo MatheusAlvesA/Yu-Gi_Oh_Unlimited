@@ -1,0 +1,1 @@
+[{"duelista":6,"oponente":5,"time":1500216102,"id":"temp_596b7b269354a"}]

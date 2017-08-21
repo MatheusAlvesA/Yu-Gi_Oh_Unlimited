@@ -1,0 +1,11 @@
+@font-face {
+
+      font-family: "YuGiOh";
+      src: url("yugioh.ttf") format("truetype");
+
+      }
+
+
+.oficial-font{
+    font-family: "YuGiOh";  
+} 

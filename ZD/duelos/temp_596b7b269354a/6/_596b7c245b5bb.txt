@@ -1,0 +1,5 @@
+invocação;especial
+invocado_em;7
+carta_solicitada;0
+ativado_em;9
+atacou_em;9

@@ -1,0 +1,835 @@
+1;3;7 Colored Fish;monster;normal;water;fish;4;1800;800;0;Um raro peixe arco-íris que nunca foi capturado por um mortal.
+2;3;A Hero Emerges;trap;normal;FALTANDO;demonio;1;0;0;0;Você somente pode ativar esta carta quando seu oponente declarar um ataque. Selecione 1 carta aleatóriamente de sua mão. Se ela for uma Carta de Monstro, Special Summon ela para seu lado do campo. Se não, envie-a para o cemitério.
+3;3;Abaki;monster;effect;fire;demonio;4;1700;1100;0;Quando esta carta é destruída e enviada para o cemitério por batalha, ambos os jogadores levam 500 de dano.
+4;3;Abare Ushioni;monster;effect;earth;beast-warrior;4;1200;1200;0;Jogue uma moeda e peça Cara ou Coroa. Se você acertar, inflija 1000 pontos de dano nos Life Points de seu oponente. Se você errar, você receberá 1000 pontos de dano. Esse efeito somente pode ser usado uma vez por turno, durante sua Main Phase.
+5;3;Acid Rain;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros virados para cima Tipo Machine no campo.
+6;3;Acrobat Monkey;monster;normal;earth;machine;3;1000;1800;0;Um robô tipo macaco independente que foi desenvolvido com tecnologia de ponta. Ele se move acrobaticamente.
+7;3;Advance Draw;spell;normal;FALTANDO;light;1;0;0;0;Ative por Tributar 1 monstro de Nível 8 ou maior virado para cima. Compre 2 cartas.
+8;3;Against the Wind;spell;normal;FALTANDO;light;1;0;0;0;Ative por selecionar 1 monstro (Blackwing) no seu Cemitério. Receba dano igual ao ATK do monstro selecionado e, depois disso, retorne aquele monstro para a sua mão.
+9;3;Airknight Parshath;monster;effect;light;fairy;5;1900;1400;0;Durante uma batalha entre esta carta atacando e um monstro na Posição de Defesa cuja DEF é menor que o ATK desta carta, inflija a diferença como Dano de Batalha ao seu oponente. Quando esta carta inflige Dano de Batalha ao seu oponente, compre 1 carta.
+10;3;Aitsu;monster;normal;fire;fairy;5;100;100;0;Ele parece ser muito confiável, mas ele poderia ter um potencial incrível.
+11;3;Alexandrite Dragon;monster;normal;light;dragon;4;2000;100;0;Muitas das jóias dos czares perdidas podem ser encontrado nas escamas deste dragão inestimável. Seu criador permanece um mistério, junto com a forma como eles adquiriram os tesouros imperiais. Mas aquele que encontra esse dragão bateu o jackpot ... se eles sabem disso ou não.
+12;3;Alien Shocktrooper;monster;normal;earth;reptile;4;1900;800;0;Os Aliens usaram uma misteriosa substância biologica para criar uma raça suprema de soldados. Eles não tem poderes naturais dos outros aliens, mas podem fazer um paralizante ataque físico.
+13;3;Ally Mind;monster;fusion;FALTANDO;machine;5;1800;1400;0;Os Aliados da Justiça que são feitos de circuitos foram desenvolvidos para realizar esta unidade de alta performance. Tomando meteoritos da Nebulosa de Verme, e embutindo-o com compostos extraídos deles, ele recebeu o alto nível Tuning que sintoniza habilidades. O poder desconhecido que ele recebeu é ainda um mistério e permanece desconhecido.
+14;3;Ally of Justice Clausolas;monster;normal;dark;machine;6;2300;1200;0;Um monstro poderosoem Névoa Valley, e a arma concebida a partir de Claiomh Solais. A sua surpresa é o ataque de fletor acima de invasores.
+15;3;Alpha The Magnet Warrior;monster;normal;earth;rock;4;1400;1700;0;Alpha, Beta, e Gamma unidos como um para formar um poderoso monstro!
+16;3;Altar for Tribute;trap;normal;FALTANDO;demonio;1;0;0;0;Selecione 1 monstro do seu lado do campo e envie-o para o cemitério. Aumente seus LPs por uma quantia igual ao ATK original do monstro.
+17;3;Amazon of the seas;monster;normal;water;fish;4;1300;1400;0;Uma sereia que serve como arauto ao Senhor do Oceano. Ela protege os dominios sagrados de Atantida.
+18;3;Amphibian Beast;monster;normal;water;fish;6;2400;2000;0;Em terra ou no mar, a velocidade deste monstro é inigualável.
+19;3;Ancient Brain;monster;normal;dark;demonio;3;1000;700;0;Uma fada caída que é poderosa nas Trevas.
+20;3;Ancient Elf;monster;normal;light;mago;4;1450;1200;0;Dizem que esse elfo teria vivido há milhares de anos. Ele lidera um exército de espíritos contra seus inimigos.
+21;3;Ancient Jar;monster;normal;earth;rock;1;400;200;0;Descrição indisponível.
+22;3;Ancient Leaf;spell;normal;FALTANDO;demonio;1;0;0;0;Ative somente se você possui 9000 ou mais LPs e por pagar 2000 LPs. Compre 2 cartas.
+23;3;Ancient Lizard Warrior;monster;normal;earth;reptile;4;1400;1100;0;Antes da ascenção do homem, este lagarto guerreiro reinava supremo.
+24;3;Ancient One of the Deep Forest;monster;normal;earth;beast;6;1800;1900;0;Esta criatura adota a forma de um bode branco vivendo na floresta, mas é na verdade um Ancião da Floresta.
+25;3;Ancient Rules;spell;normal;FALTANDO;light;1;0;0;0;Special invoque 1 monstro normal de Level 5 ou maior da sua mão.
+26;3;Ansatsu;monster;normal;earth;warrior;5;1700;1200;0;Um silencioso e mortal guerreiro especializado em assassinatos.
+27;3;Aqua Dragon;monster;fusion;water;sea-serpent;6;2250;1900;0;(Fairy Dragon) + (Amazon of the Seas) + (Zone Eater)
+28;3;Aqua Madoor;monster;normal;water;mago;4;1200;2000;0;Um mágico das águas que evoca uma parede liquida para esmagar todos os inimigos que se opõem a ele.
+29;3;Archfiend Marmot of Nefariousness;monster;normal;earth;beast;2;400;600;0;Descrição indisponível.
+30;3;Archfiend Soldier;monster;normal;dark;demonio;4;1900;1500;0;Um expert em batalhas que pertence a uma diabólica unidade de invasão. Ele é famoso por sempre concluir seu trabalho.
+31;3;Armaill;monster;normal;earth;warrior;3;700;1300;0;Um estranho guerreiro que manipula três lâminas mortais com ambas as mãos e sua cauda.
+32;3;Armed Dragon LV10;monster;effect;wind;dragon;10;3000;2000;0;Esta carta não pode ser Normal Summoned ou Set. Essa carta não pode ser Special Summoned exceto por se Tributar 1 (Armed Dragon LV7) no seu lado do campo. Por enviar 1 carta da sua mão para o Cemitério, destrua todos os monstros virados para cima no lado do campo do seu oponente.
+33;3;Armed Dragon LV3;monster;effect;wind;dragon;3;1200;900;0;Durante sua Standby Phase, envie esta carta virada para cima para o cemitério para Special Summon 1 (Armed Dragon LV5) de sua mão ou Deck.
+34;3;Armed Dragon LV5;monster;effect;wind;dragon;5;2400;1700;0;Envie 1 Carta de Monstro de sua mão para o cemitério para destruir 1 monstro virado para cima no lado do campo de seu oponente com um ATK igual ou menor que o ATK do monstro enviado. Durante a End Phase de um turno que essa carta destruiu um monstro como resultado de batalha, envie essa carta para o cemitério para Special Summon 1 (Armed Dragon LV7) de sua mão ou Deck.
+35;3;Armed Dragon LV7;monster;effect;wind;dragon;7;2800;1000;0;Esta carta não pode ser Normal Summoned ou invocada virada para baixo. Essa carta não pode ser Special Summoned exceto pelo efeito de (Armed Dragon LV5). Envie 1 Carta de Monstro de sua mão para o cemitério para destruir todos os monstros virados para cima do lado do campo de seu oponente com um ATK igual ou menor que o ATK do monstro enviado.
+36;3;Armed Ninja;monster;effect;earth;warrior;1;300;300;0;FLIP: Selecione 1 Carta Magic no campo e a destrua. Se a carta selecionada está virada para baixo, pegue-a e veja-a. Se for uma Carta Magic, ela é destruída. Se não, retorne-a para sua posição original.
+37;3;Armored Lizard;monster;normal;earth;reptile;4;1500;1200;0;Um lagarto com uma pele muito dura e uma mordida mortal.
+38;3;Armored Starfish;monster;normal;water;water;4;850;1400;0;Uma estrela-do-mar azulada com uma pele sólida capaz de dispersar ataques.
+39;3;Armored Zombie;monster;normal;dark;zombie;3;1500;0;0;Este guerreiro cegamente brande sua espada mortal com fúria devastadora.
+40;3;Asceticism of the Six Samurai;spell;quick-play;FALTANDO;light;1;0;0;0;Selecione 1 monstro (Six Samura) que você controla. Special Summon 1 monstro (SixSamurai) do seu Deck para o seu lado do campo cujos ATK seja igual ao do monstro selecionado,mas com um nome diferente. Durante a EndPhase deste turno, destrua o monstro selecionado.
+41;3;At One With the Sword;trap;normal;FALTANDO;light;1;0;0;0;Ative somente se o único monstro virado para cima que você controla é um monstro (X-Saber). Após a ativação, esta carta é tratada como um Equip Card e é equipada naquele monstro. Ele ganha 800 de ATK. Se o monstro equipado destruir um monstro do seu oponente em batalha,compre 1 carta.
+42;3;Atlantean Pikeman;monster;normal;water;sea-serpent;2;1400;0;0;O grande Ocean Lord,que reina sobre as profundezas, servido por seus lançadores. As criaturas existentes no fundo do mar tem medo de enfrentar o fluxo de ataques que suas lâminas são capazes de realizar.
+43;3;Attraffic Control;spell;continua;FALTANDO;light;1;0;0;0;Se o seu oponente controla 3 ou mais monstros, eles não podem declarar um ataque.
+44;3;Axe Dragonute;monster;effect;dark;dragon;4;2000;1200;0;Se esta carta atacar, mude-a para Posição de Defesa após o Cálculo de Dano.
+45;3;Axe Raider;monster;normal;earth;warrior;4;1700;1150;0;Empunhando um machado enorme este monstro possui uma grande força e agilidade.
+46;3;B. Dragon Jungle King;monster;normal;earth;dragon;6;2100;1800;0;Um dragão jet-black encontrados nas mais profundas selvas que normalmente devora árvores.
+47;3;B. Skull Dragon;monster;fusion;dark;dragon;9;3200;2500;0;(Summoned Skull) + (Red-Eyes B. Dragon)
+48;3;Baby Dragon;monster;normal;wind;dragon;3;1200;700;0;Muito mais do que apenas um bebê, esse dragão possui um poder oculto.
+49;3;Banner of Courage;spell;continua;FALTANDO;light;1;0;0;0;Apenas durante sua Battle Phase, todos os monstros que você controla ganham 200 de ATK.
+50;3;Baron of the Fiend Sword;monster;normal;dark;demonio;4;1550;800;0;Um aristocrata que empunha uma espada possuída por um espírito maligno que ataca os mais fracos.
+51;3;Basic Insect;monster;normal;earth;insect;2;500;700;0;Normalmente encontrado viajando em enxames, o ambiente ideal dessa criatura é a floresta.
+52;3;Battle Footballer;monster;normal;fire;machine;4;1000;2100;0;Um cyborg com alto poder de defesa. Originalmente ele foi inventado para ser uma máquina de futebol.
+53;3;Battle Ox;monster;normal;earth;beast-warrior;4;1700;1000;0;Um monstro com um tremendo poder, que destrói os inimigos com o balanço de seu machado.
+54;3;Battle Steer;monster;normal;earth;beast-warrior;5;1800;1300;0;Um monstro touro frequentemente encontrado na mata, que ataca monstros inimigos com um par de chifres mortais.
+55;3;Battlestorm;monster;effect;dark;winged-beast;4;1700;1000;0;Esta carta ganha 100 de ATK por cada monstro Tipo Winged Beast virado para cima que você controle. Uma vez por turno, se você controla 3 ou mais monstros Tipo Winged Beast virados para cima, você pode destruir 1 Carta Spell ou Trap que o seu oponente controle.
+56;3;Bean Soldier;monster;normal;earth;plant;4;1400;1300;0;Um guerreiro planta que ataca com sementes e espada.
+57;3;Beast Fangs;spell;equip;FALTANDO;beast;1;0;0;0;Aumente o ATK e DEF de um monstro Beast equipado com esta carta em 300 pontos.
+58;3;Beast King Barbaros;monster;effect;earth;beast-warrior;8;3000;1200;0;Você pode Normal Summon ou Set esta carta sem Tributar. Se o fizer, o ATK original desta carta torna-se 1900. Você pode Tributar 3 monstros para o Tribute Summon desta carta. Quando esta carta é Tribute Summoned deste modo, destrua todas as cartas que o seu oponente controla.
+59;3;Beast Machine King Barbaros Ur;monster;effect;earth;beast-warrior;8;3800;1200;0;Você pode Special Summon esta carta da sua mão para o seu lado do campo por remover do jogo 1 monstro Machine-Type e 1 monstro Beast-Warrior-Type da sua mão, campo e/ou Cemitério. Quando esta carta batalha, qualquer Dano de Batalha infligido ao seu oponente torna-se 0.
+60;3;Beast of Talwar;monster;normal;dark;demonio;6;2400;2150;0;Somente o mestre da espada entre monstros Fiend é permitido permanecer no Talwar.
+61;3;Beastly Mirror Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon de (Fiends Mirror). Você também deve oferecer monstros cujos somados níveis seja igual a 6 ou mais como um tributo a partir do campo ou da sua mão.
+62;3;Beautiful Headhuntress;monster;normal;earth;warrior;4;1600;800;0;Uma criatura maligna que decapta monstros inimigos aos montes.
+63;3;Beaver Warrior;monster;normal;earth;beast-warrior;4;1200;1500;0;O que esta criatura não tem de tamanho ele compensa em defesa durante um combate.
+64;3;Behegon;monster;normal;water;water;4;1350;1000;0;Com uma pança e dentes enormes, essa monstruosidade é uma serpente perigosa das profundezas.
+65;3;Beta The Magnet Warrior;monster;normal;earth;rock;4;1700;1600;0;Alpha, Beta, e Gamma se uniram para formar um poderoso monstro!
+66;3;Big Koala;monster;normal;earth;beast;7;2700;2000;0;Uma espécie enorme de Koala. Ele é manso, mas as pessoas tem medo dele porque ele é muito poderoso.
+67;3;Bio-Mage;monster;normal;light;fairy;3;1150;1000;0;Um sacerdote misterioso criado como um resultado dos mais recentes avanços em biotecnologia.
+68;3;Black Luster Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para Ritual Summon (Black Luster Soldier). Você deve também Tributar monstros cujo total de Níveis se iguale a 8 ou mais do campo ou da sua mão.
+69;3;Black Luster Soldier;monster;ritual;earth;warrior;8;3000;2500;0;Este monstro somente pode ser Ritual Summoned com a Carta Spell Ritual (BlackLuster Ritual).
+70;1;Black Luster Soldier - Envoy of the Beginning;monster;effect;light;warrior;8;3000;2500;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta somente pode ser Special Summoned por remover do jogo 1 monstro LIGHT e 1 monstro DARK do seu Cemitério. Uma vez por turno, você pode selecionar e ativar 1 dos seguintes efeitos: -Remova do jogo 1 monstro no campo. Esta carta não pode declarar um ataque durante o turno em que esse efeito é ativado. - Se esta carta destruir um monstro em batalha, ela pode atacar mais 1 única vez em seguida.
+71;3;Black Magic Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para o Ritual Summon de (Magician of Black Chaos). Você deve Tributar monstros do seu lado do campo ou da sua mão até obter um Nível total igual a 8 ou maior.
+72;3;Black Pendant;spell;equip;FALTANDO;light;1;0;0;0;O monstro equipado ganha 500 de ATK. Quando esta carta é destruida cause 500 de dano aos pontos de vida do oponente.
+73;3;Black Sonic;trap;normal;FALTANDO;light;1;0;0;0;Quando um monstro do seu oponente declara um ataque a um monstro Blackwing que você controla: remova do jogo todos os monstros em posição de ataque que o seu oponente controla.
+74;3;Black Stego;monster;effect;earth;dinosaur;4;1200;2000;0;Quando esta carta é selecionada como um alvo de ataque por um monstro do seu oponente, essa carta é alterada para Modo de Defesa.
+75;3;Black Veloci;monster;effect;earth;dinosaur;4;1800;300;0;Se esta carta ataca um monstro do seu oponente, aumente o ATK desta carta em 400 pontos durante a Damage Step apenas. Se esta carta é atacada por um monstro do seu oponente, reduza o ATK desta carta em 400 pontos durante a Damage Step apenas.
+76;3;Black Whirlwind;spell;continua;FALTANDO;light;1;0;0;0;Quando um monstro (Blackwing) é Invocado Normal para o seu lado do campo, você pode adicionar 1 monstro (Blackwing) do seu Deck para a sua mão com ATK menor que o ATK daquele monstro. (Esse efeito pode ser ativado apenas uma vez por turno).
+77;3;Blackback;trap;normal;FALTANDO;light;1;0;0;0;Ative durante o seu turno. Selecione 1 monstro (Blackwing) de 2000 ou menos de ATK em seu Cemitério, e o Special Summon. Você não pode Normal Summon ou Set no turno que ativar essa carta.
+78;3;Blackland Fire Dragon;monster;normal;dark;dragon;4;1500;800;0;Um dragão que habita nas profundezas da escuridão, a sua vulnerabilidade reside na sua baixa visão.
+79;3;Blackwing - Bora the Spear;monster;effect;dark;winged-beast;4;1700;800;0;Se você controla um monstro (Blackwing) fora (Blackwing - Borathe Spear), você pode Special Summon esta carta da sua mão. Durante batalha entre essa carta atacando e um monstro em Modo de Defesa cuja DEF é menor que o ATK dessa carta, inflija a diferença como Dano de Batalha no seu oponente.
+80;3;Blackwing - Elphin the Raven;monster;effect;dark;winged-beast;6;2200;1200;0;Se você controla um monstro (Blackwing) virado para cima, você  pode Normal Summon esta carta sem Tributar. Quando essa carta é Normal Summoned, você pode alterar a Posição de Batalha de 1 monstro que o seu oponente controle.
+81;3;Blackwing - Fane the Steel Chain;monster;effect;dark;winged-beast;2;500;800;0;Esta carta pode atacar seu oponente diretamente. Quando esta carta ataca seu oponente diretamente e inflige Dano de Batalha ao seu oponente, você pode mudar 1 monstro na Posição de Ataque o seu oponente controla para a Posição de Defesa. O monstro alvo não pode mudar a sua posição de batalha até a End Phase do próximo turno.
+82;3;Blackwing - Gladius the Midnight Sun;monster;effect;dark;winged-beast;3;800;1500;0;Se seu unico monstro no campo for 1 (Blackwing) virado para cima que não seja (Blackwing-Gladius the MidnightSun), você pode Special Summon essa carta (da sua mão). Uma vez por turno, essa carta não pode ser destruida por batalha.
+83;3;Blackwing - Gust the Backblast;monster;effect;dark;winged-beast;2;900;1400;0;Se você não controla cartas (incluindo traps/spells e monstros), você pode Special Summon esta carta da sua mão para o seu lado do campo. Apenas durante a Damage Step, se esta carta estiver sendo atacada virada para cima no campo, o monstro atacante perde 300 de ATK.
+84;3;Blackwing - Shura the Blue Flame;monster;effect;dark;winged-beast;4;1800;1200;0;Quando esta carta destrói um monstro do oponente por batalha e o envia para o Cemitério, você pode Special Summon 1 monstro (Blackwing) com 1500 ou menos de ATK do seu Deck. Os efeitos daquele monstro são negados.
+85;3;Blackwing - Sirocco the Dawn;monster;effect;dark;winged-beast;5;2000;900;0;Se o seu oponente controla um monstro e você não, você pode Normal Summon ou Set esta carta sem Tributar. Uma vez por turno, você pode selecionar 1 monstro (Blackwing) virado para cima que você controle. Até o fim desse turno o ATK dele torna-se igual ao total de ATK de todos os monstros (Blackwing) no campo exceto dele mesmo. Monstros fora o selecionado não poderá atacar no turno em que você ativar esse efeito.
+86;3;Blade Skater;monster;normal;earth;warrior;4;1400;1500;0;Uma imagem da beleza sobre o gelo, este guerreiro lindo rasga seus oponentes em pedaços com seu estilo de ataque Slicer Accel.
+87;3;Blasting the Ruins;trap;normal;FALTANDO;light;1;0;0;0;Ative apenas se há 30 ou mais cartas no seu Cemitério. Inflija 3000 de dano no seu oponente.
+88;3;Blazing Inpachi;monster;normal;fire;fire;4;1850;0;0;Um espírito maligno de madeira agora queima em chamas. Seu ataque de fogo é poderoso, mas em breve não sobrará nada além de cinzas.
+89;3;Blizzard Dragon;monster;effect;water;dragon;4;1800;1000;0;Uma vez por turno, você pode selecionar um monstro no campo do seu oponente. O monstro selecionado não pode mudar a posição de batalha ou declarar um ataque até o fim do próximo turno do seu oponente.
+90;3;Blizzed, Defender of the Ice Barrier;monster;effect;water;water;1;300;500;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, compre 1 carta.
+91;3;Block Attack;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro virado para cima em Modo de Ataque que o seu oponente controle e o altere para Modo de Defesa.
+92;3;Blocker;monster;normal;dark;machine;4;850;1800;0;Construída a partir de vários componentes, este monstro pode lança-los em um único ataque.
+93;3;Blue Medicine;spell;normal;FALTANDO;light;1;0;0;0;Você e o seu oponente ganham 400 LPs.
+94;3;Blue-Eyes Ultimate Dragon;monster;fusion;light;dragon;12;4500;3800;0;(Blue-Eyes White Dragon) + (Blue-Eyes White Dragon) + (Blue-Eyes White Dragon)
+95;3;Blue-Eyes White Dragon;monster;normal;light;dragon;8;3000;2500;0;Este lendário dragão é uma poderosa maquina de destruição altamente invencível. Poucos efrentaram essa criatura incrível e viveram para contar a história.
+96;3;Blue-Winged Crown;monster;normal;wind;winged-beast;4;1600;1200;0;Com o cabelo em forma de coroa e um corpo envolto em chamas, branco azulado, este pássaro possúi um visual formidável.
+97;3;Boneheimer;monster;normal;water;water;3;850;400;0;Este monstro vagueia pelos mares, sugando qualquer criatura que possa encontrar.
+98;3;Book of Secret Arts;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Tipo SpellCaster equipado com esta carta em 300 pontos.
+99;3;Bottom Dweller;monster;normal;water;fish;5;1650;1700;0;Esta é uma criatura do mar, cuja ira é algo que todos os outros monstros temem.
+100;3;Breath of Light;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros virados para cima Tipo Rock no campo.
+101;3;Bright Star Dragon;monster;effect;light;dragon;4;1900;1000;0;Quando esta carta é Normal Summoned: Você pode direcionar um face-up monstro no campo, exceto esta carta, aumentar o níve do alvo em 2 até a EndPhase.
+102;3;Bunilla;monster;normal;earth;beast;1;150;2050;0;Este coelho é muito guloso! Ele está em busca da cenoura mais doce do mundo. Ele apenas quer roer cenoura  o dia de hoje, amanhã e no dia seguinte!
+103;3;Burden of the Mighty;spell;continua;FALTANDO;light;1;0;0;0;Cada monstro virado para cima que o seu oponente controla perde 100 de ATK x seu próprio Nível.
+104;3;Buster Blader;monster;effect;earth;warrior;7;2600;2300;0;Esta carta ganha 500 de ATK por cada monstro Tipo Dragon que o seu oponente possui no campo e no Cemitério.
+105;3;Call of the Earthbound;trap;normal;FALTANDO;light;1;0;0;0;Ative somente quando um monstro do seu oponente declara um ataque. Você pode mudar o alvo do ataque para outro monstro no seu lado do campo.
+106;3;Card of Sanctity;spell;normal;FALTANDO;light;1;0;0;0;Remova do jogo todas as cartas na sua mão e no seu lado do campo. Compre cartas até você ter 2 cartas na sua mão.
+107;3;Card Trader;spell;continua;FALTANDO;light;1;0;0;0;Uma vez por turno, durante a sua StandbyPhase: Você pode embaralhar um card de sua mão no seu deck, e então compre 1 carta.
+108;3;Cards for Black Feathers;spell;normal;FALTANDO;light;1;0;0;0;Ative por remover do jogo 1 monstro (Blackwing) da sua mão. Compre 2 cartas.
+109;3;Castle Walls;trap;normal;FALTANDO;light;1;0;0;0;Aumente a DEF de um monstro virado para cima no campo em 500 pontos até o final do turno.
+110;3;Ceasefire;trap;normal;FALTANDO;light;1;0;0;0;Vire todos os monstros no campo que estão virados para baixo para cima. Inflija 500 de dano ao seu oponente para cada Effect Monster no campo.
+111;3;Celtic Guardian;monster;normal;earth;warrior;4;1400;1200;0;Um elfo que aprendeu a manejar uma espada, ele confunde os inimigos com ataques-relâmpago.
+112;3;Cemetery Bomb;trap;normal;FALTANDO;light;1;0;0;0;Inflija 100 de dano no seu oponente para cada carta no Cemitério dele.
+113;3;Chainsaw Insect;monster;effect;earth;insect;4;2400;0;0;Se esta carta ataca ou é atacada, seu oponente compra 1 carta no fim da Etapa de Dano.
+114;3;Chakra;monster;ritual;dark;demonio;7;2450;2000;0;Você pode Ritual Summon essa carta utilizando (Resurrection of Chakra).
+115;3;Chamberlain of the Six Samurai;monster;normal;earth;warrior;3;200;2000;0;Os Seis Samurais são ajudados das sombras por este silencioso e misterioso guerreiro. Seu passado é desconhecido para eles, mas suas incontáveis cicatrizes são provas de sua experiência.
+116;3;Chaos Necromancer;monster;effect;dark;demonio;1;0;0;0;O ATK desta carta torna-se o número de Cartas de Monstro no seu Cemitério x 300.
+117;3;Charcoal Inpachi;monster;normal;fire;fire;1;100;2100;0;Um espírito mau. O churrasco grelhado com esse carvão é tão impressionante que toda a gente pensa que é inapagavel.
+118;3;Charubin the Fire Knight;monster;fusion;fire;fire;3;1100;800;0;(Monster Egg) + (Hinotama Soul)
+119;3;Chorus of Sanctuary;spell;field;FALTANDO;light;1;0;0;0;Aumentar a DEF de todos os monstros na posição de defesa em 500 pontos.
+120;3;Chu-Ske The Mouse Fighter;monster;normal;earth;beast;3;1200;0;0;Um rato de fogo, viajando pelo mundo para se tornar o lutador mais forte no mundo dos ratos. Tenha cuidado para não tocá-lo, ou você vai ficar queimado.
+121;3;Claw Reacher;monster;normal;dark;demonio;3;1000;800;0;Braços que esticam e garras afiadas fazem deste monstro um adversário formidável.
+122;3;Clown Zombie;monster;normal;dark;zombie;2;1350;0;0;Um palhaço revivido pelos poderes das trevas. Sua dança mortal enviou muitos monstros para suas sepulturas.
+123;3;Commencement Dance ;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Performance of Sword). Você também deve oferecer monstros cujos total Level em estrelas igual ou superior a 6 do campo ou a sua mão como um tributo.
+124;3;Constellar Acubens;monster;effect;light;machine;4;800;2000;0;Quando essa carta é Normal Summon ou Special Summon: Todos os Monstros (Constellar) que você controla ganham 500 ATK.
+125;3;Constellar Aldebaran;monster;effect;light;beast-warrior;3;1300;800;0;Quando essa carta é Normal Summon: Você pode Special Summon 1 monstro (Constellar) de level 3 da sua mão.
+126;3;Constellar Algiedi;monster;effect;light;mago;4;1600;1400;0;Quando essa carta é Normal Summon: Você pode Special Summon 1 monstro de Level 4 (Constellar) da sua mão.
+127;3;Constellar Alrescha;monster;effect;light;warrior;6;2200;1200;0;Quando essa carta é Normal Summon: Você pode Special Summon 1 monstro (Constellar) da sua mão virado para cima.
+128;3;Constellar Antares;monster;effect;light;machine;6;2400;900;0;Quando essa carta for Invocado por Invocação Normal ou Especial: você pode escolher 1 monstro (Constelar) em seu Cemitério e adicionar a sua mão.
+129;3;Constellar Kaus;monster;effect;light;beast-warrior;4;1800;700;0;Não pode ser usado como Material de Synchro. Até duas vezes por turno: Você pode escolher 1 Monstro (Constellar) no campo para ativar 1 desses efeitos. Ou aumente seus Level em 1. Ou reduza seu Level em 1.
+130;3;Constellar Leonis;monster;effect;light;beast;3;1000;1800;0;Durante sua MainPhase, você pode Invocar por Invocação-Normal 1 monstro (Constelar) em adição a sua Invocação Normal padrão do turno. (Você só pode se aproveitar deste efeito uma vez por turno, independente de quantos Constellar Leonis possua.)
+131;3;Constellar Meteor;trap;normal;FALTANDO;light;1;0;0;0;Durante o turno que essa carta for ativada, se um monstro do seu oponente batalha com um monstro (Constellar), e o monstro do oponente não for destruído, em batalha o monstro volta pro deck do seu oponente após o cálculo de dano.
+132;3;Constellar Pollux;monster;effect;light;warrior;4;1700;600;0;Durante o turno que essa carta foi Normal Summon, você pode Normal Summon 1 monstro (Constelar) em adição a sua Invocação Normal padrão por turno. (Você só pode ativar esse efeito uma vez por turno independente de possuir mais de uma cópia dessa carta.
+133;3;Constellar Rasalhague;monster;effect;light;mago;2;900;100;0;Você pode Tributar essa carta, Special Summon 1 monstro (Constellar) da sua Mão ou Cemitério, virado para cima em posição de Defesa, exceto (Constellar Resalhague).
+134;3;Constellar Sheratan;monster;effect;light;beast;3;700;1900;0;Quando essa carta é Normal Summon: Você pode adicionar 1 monstro (Constellar) do seu Deck para sua Mão.
+135;3;Constellar Siat;monster;effect;light;fairy;1;100;1600;0;Se o seu oponente controla Monstros e você não controla nenhum Monstro, você pode Special Summon essa carta (da sua Mão). uma vez por turno: Você pode dar alvo em 1 Monstro (Constellar) que você controla ou do seu Cemitério, Essa carta torna-se o nível desse Monstro. Essa carta não pode ser usada para material de Xyz, exceto para Xyz Summon de monstros (Constellar).
+136;3;Constellar Sombre;monster;effect;light;fairy;4;1550;1600;0;Uma vez por turno, você pode remover 1 monstro Constellar do seu cemitério, então selecionar 1 monstro Constellar no seu cemitério e adicionar a sua mão. Se o fizer também essa carta ganha o seguinte efeito: Normal Summon 1 monstro Constellar em adição a sua Invocação padrão do turno. (Esse efeito pode ser usado apenas uma vez por turno, independente se você possuir mais de uma cópia dessa carta)
+137;3;Constellar Star Cradle;spell;normal;FALTANDO;light;1;0;0;0;Selecione 2 monstros Constellar no seu Cemitério e adicione para a sua mão. Você não pode conduzir sua BattlePhase no turno que você ativar esta carta.
+138;3;Constellar Virgo;monster;effect;light;fairy;5;2300;1600;0;Quando essa carta é Normal Summon: Você pode Special Summon 1 monstro (Constellar) de nível 5 da sua mão, este virado para cima.
+139;3;Constellar Zubeneschamali;monster;effect;light;machine;5;2100;1400;0;Quando essa carta é Normal Summon ou Special Summon: Você pode adicionar 1 monstro (Constellar) do seu deck para mão.
+140;3;Contract with the Dark Master;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Dark Master - Zorc). Você deve também oferecer monstros cujo nível totalize 8 ou mais como Tributo do seu campo ou mão.
+141;3;Copycat;monster;effect;light;mago;1;0;0;0;Quando esta carta é Summoned, selecione 1 monstro que o seu oponente controle. O ATK e DEF dessa carta se tornam iguais ao ATK e DEF originais do monstro selecionado.
+142;3;Corroding Shark;monster;normal;dark;zombie;3;1100;700;0;Um tubarão zumbi que pode entregar sua maldição letal com um feitiço.
+143;3;Cosmo Queen;monster;normal;dark;mago;8;2900;2450;0;Rainha das galáxias e amante das estrelas.
+144;3;Cost Down;spell;normal;FALTANDO;light;1;0;0;0;Descarte uma carta de sua mão. Invoque(Normal-Summon) um monstro level 6 ou menor sem sacrificar ou lv 7 ou maior sacrificando apenas 1.
+145;3;Crab Turtle;monster;ritual;water;water;8;2550;2500;0;Este monstro só pode ser invocado por ritual com a carta mágica de ritual (Turtle Oath). Você também deve oferecer monstros cujo total Level em estrelas igual ou superior a 8 como um tributo a partir do campo ou a sua mão.
+146;3;Crawling Dragon;monster;normal;earth;dragon;5;1600;1400;0;Este dragão enfraquecido não pode mais voar, mas ainda conta com uma força mortal.
+147;3;Crawling Dragon #2;monster;normal;earth;dinosaur;4;1600;1200;0;Um poderoso dragão com os dentes que podem triturar quase tudo em pó.
+148;3;Crimson Ninja;monster;effect;earth;warrior;1;300;300;0;FLIP: Destrua 1 Carta Trap no campo. Se a carta estiver virada para baixo, veja-a e a destrua se for uma Cartas Trap. Se for uma Carta Spell, a retorne á sua posição original.
+149;3;Cunning of The Six Samurai;spell;quick-play;FALTANDO;light;1;0;0;0;Ative somente enviando 1 monstro (Six-Samurai) virado para cima que você controla ao Cemitério. Special Summon 1 monstro (Six Samurai) do Cemitério de qualquer um dos jogadores.
+150;3;Cup of Ace;spell;normal;FALTANDO;light;1;0;0;0;Jogue 1 moeda: Se o resultado for Cara: Compre 2 cartas. Se o resultado for Coroa: Seu oponente compra 2 cartas.
+151;3;Curse of Dragon;monster;normal;dark;dragon;5;2000;1500;0;Um dragão amaldiçoado que usa forças das trevas para executar um ataque poderoso.
+152;3;Curse of the Masked Beast;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para o Ritual Summon de (The Masked Beast). Você deve Tributar monstros do seu lado do campo e ou da sua mão até obter um Nível total igual a 8 ou maior.
+153;3;Cyber Dragon;monster;effect;light;machine;5;2100;1600;0;Se o seu oponente controla um(s) monstro(s) e você não controla nenhum, você pode fazer uma Invocação Especial desta carta de sua mão para o campo.
+154;3;Cyber End Dragon;monster;fusion-effect;light;machine;10;4000;2800;0;(Cyber Dragon) + (CyberDragon) + (CyberDragon). Durante a batalha desta carta e um monstro em posição de DEF, cuja DEF é menor que o ATK desta carta, inflija a diferença dos pontos diretamente nos pontos de vida de seu oponente.
+155;3;Cyber Falcon;monster;normal;wind;machine;4;1400;1200;0;Um falcão a jato que viaja á velocidade do som.
+156;3;Cyber Soldier of Darkworld;monster;normal;dark;machine;4;1400;1200;0;Um soldado mecânicoque que não vai parar de atacar até que todos os valores da vida tenham sido extintos dos seus sensores.
+157;3;Cyber Twin Dragon;monster;fusion-effect;light;machine;8;2800;2100;0;(Cyber Dragon) + (Cyber Dragon). Esta carta pode atacar duas vezes durante a mesma BattlePhase.
+158;3;Cyber-Tech Alligator;monster;normal;wind;machine;5;2500;1600;0;Originalmente um pterodáctilo, cruelmente atacado por um dragão. Utilizando as mais novas tecnologias, seu criador o salvou de ferimentos quase fatais e o trouxe de volta como um poderoso Cyborg.
+159;3;Cycroid;monster;normal;earth;machine;3;800;1000;0;O mais amável e simpático de todos os Vehicroids. Pode armar-se com rodinhas!
+160;3;D. Human;monster;normal;earth;warrior;4;1300;1100;0;Presenteado com o poder dos dragões, este guerreiro empunha uma espada criada a partir de um dente de dragão.
+161;3;D.D. Trainer;monster;normal;dark;demonio;1;100;2000;0;Um duende pobre que foi sugado para uma dimensão diferente. No entanto, ele está fazendo o seu melhor com o seu novo destino.
+162;3;Dancing Elf;monster;normal;wind;fairy;1;300;200;0;Um elfo que dança no céu com asas de lâminas afiadas.
+163;1;Dark Armed Dragon;monster;effect;dark;dragon;7;2800;1000;0;Esta carta não pode ser Normal summoned ou Set. Essa carta não pode ser Special Summoned exceto por se ter exatamente 3 monstros DARK no seu Cemitério. Você pode remover do jogo 1 monstro DARK do seu Cemitério para destruir 1 carta no campo.
+164;3;Dark Bat;monster;normal;wind;winged-beast;3;1000;1000;0;Morcegos do mundo inferior que usam seus hiper-sentidos para detectar seus inimigos.
+165;3;Dark Blade;monster;normal;dark;warrior;4;1800;1500;0;Dizem que ele é um dragão manipulando um guerreiro do mundo das trevas. Seu ataque é enorme, usando seu poder com espadas.
+166;3;Dark Driceratops;monster;effect;earth;dinosaur;6;2400;1500;0;Durante uma batalha entre esta carta atacando e um monstro na Posição de Defesa cuja DEF é menor que o ATK desta carta, inflija a diferença como Dano de Batalha ao seu oponente.
+167;3;Dark Elf;monster;effect;dark;mago;4;2000;800;0;É necessário pagar 1000 LPs para atacar com essa carta.
+168;3;Dark Energy;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro demonio equipado com esta carta em 300 pontos.
+169;3;Dark Eruption;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 monstro DARK com 1500 ou menos de ATK do seu Cemitério á sua mão.
+170;3;Dark Gray;monster;normal;earth;beast;3;800;900;0;Inteiramente cinza, esta besta raramente tem sido vista por olhos mortais.
+171;1;Dark Hole;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros no campo.
+172;3;Dark King of the Abyss;monster;normal;dark;demonio;3;1200;800;0;Diz-se que este rei do submundo, uma vez tinha o poder para governar as trevas.
+173;3;Dark Magic Curtain;spell;normal;FALTANDO;light;1;0;0;0;Pague metade dos seus LPs para Special Summon 1 (Dark Magician) do seu Deck.
+174;3;Dark Magician;monster;normal;dark;mago;7;2500;2100;0;O mago supremo em termos de ataque e defesa.
+175;3;Dark Magician Girl;monster;effect;dark;mago;6;2000;1700;0;Esta carta ganha 300 de ATK para cada (Dark Magician) ou (Magician of Black Chaos) no Cemitério de qualquer dos jogadores.
+176;3;Dark Magician of Chaos;monster;effect;dark;mago;8;2800;2600;0;Quando esta carta é Normal Summoned ou Special Summoned, você pode selecionar e adicionar 1 Carta Spell do seu Cemitério para a sua mão. Monstros que essa carta destroi por batalha são removidos do jogo ao invés de irem para o Cemitério. Se essa carta é destruida por batalha, ela é removida do jogo.
+177;3;Dark Master - Zorc;monster;ritual-effect;dark;demonio;8;2700;1500;0;Esta carta somente pode ser Ritual Summoned com o Ritual Spell Card (Contract with the Dark Master). Uma vez por turno, você pode rolar um dado de seis lados e aplicar 1 dos seguintes efeitos de acordo com os resultados obtidos: é 1 ou 2: Destrua todos os monstros que o seu oponente controla. é 3, 4 ou 5: Destrua 1 monstro que o seu oponente controla. é 6, Destrua todos os monstros que você controla.
+178;3;Dark Mirror Force;trap;normal;FALTANDO;light;1;0;0;0;Ative somente quando um monstro do seu oponente declara um ataque. Remova do jogo todos os monstros na posição de Defesa que o seu oponente controla.
+179;3;Dark Plant;monster;normal;dark;plant;1;300;400;0;Descrição indisponível.
+180;3;Dark Witch;monster;normal;light;fairy;5;1800;1700;0;Uma criatura da mitologia popular que proporciona ataques fatais com uma lança afiada.
+181;3;Dark-Piercing Light;spell;normal;FALTANDO;light;1;0;0;0;Vire todos os monstros virados para baixo que o seu oponente controle para cima.
+182;3;Darkfire Dragon;monster;fusion;dark;dragon;4;1500;1250;0;(Firegrass) + (Petit Dragon)
+183;3;Darkfire Soldier #1;monster;normal;fire;fire;4;1700;1150;0;Um especialista em explosivos de uma força especial de elite.
+184;3;Darkfire Soldier #2;monster;normal;fire;fire;4;1700;1100;0;Um guerreiro que ganhou o poder imensurável do coração de um vulcão.
+185;3;Darkworld Thorns;monster;normal;earth;plant;3;1200;900;0;A planta espinhosa encontrada no pântano que se enrola em qualquer viajante distraído.
+186;3;Dash Warrior;monster;effect;wind;warrior;3;600;1200;0;Se esta carta ataca, ela ganha 1200 de ATK apenas durante a Damage Step.
+187;3;De-Spell;spell;normal;FALTANDO;light;1;0;0;0;Selecione uma Carta Spell/Trap no campo do adversário. Se a carta selecionada for um Spell ela é destruida. Se for uma Trap, devolva á sua posição original.
+188;3;Decoy Dragon;monster;effect;fire;dragon;2;300;200;0;Quando essa carta é selecionada como alvo de ataque de um monstro do oponente, caso você possua monstros de nivel 7 ou maior e tipo Dragon em seu Cemitério, será selecionado aleatóriamente um desses monstros e invocado Special Summon para o seu lado do campo. Mude o alvo do ataque para o monstro invocado. (Nessa hora traps não poderão ser ativadas para impedir a Invocação e/ou destruir o monstro a ser invocado)
+189;3;Deepsea Shark;monster;fusion;water;fish;5;1900;1600;0;(Bottom Dweller) + (Tongyo)
+190;3;Demise, King of Armageddon;monster;ritual-effect;dark;demonio;8;2400;2000;0;Esta carta somente pode ser Ritual Summoned com o Ritual Spell Card, (End of the World). Você pode pagar 2000 LPs para destruir todas as outras cartas no campo.
+191;3;Depth Amulet;trap;continua;FALTANDO;light;1;0;0;0;Quando um monstro do seu oponente declara um ataque, você pode descartar 1 carta para negar aquele ataque. Destrua esta carta durante a 3° End Phase do seu oponente após a ativação.
+192;3;Des Kangaroo;monster;effect;dark;beast;4;1500;1700;0;Se o ataque do monstro atacante for menor que a defesa deste monstro, o monstro atacante é destruído. (O cálculo de danos é aplicado normalmente)
+193;3;Des Koala;monster;effect;dark;beast;3;1100;1800;0;FLIP: Inflija 400 de dano no seu oponente por cada carta na mão dele.
+194;3;Desert Sunlight;trap;normal;FALTANDO;light;1;0;0;0;Todos os monstros que você controla são alterados para virados para cima em Modo de Defesa.
+195;3;Destroyer Golem;monster;normal;earth;rock;4;1500;1000;0;Um golem com uma mão direita gigante para esmagar as suas vítimas.
+196;3;Destruction Ring;trap;normal;FALTANDO;light;1;0;0;0;Destrua 1 monstro virado para cima que você controle para infligir 1000 de dano em ambos os jogadores.
+197;3;Dharma Cannon;monster;normal;dark;machine;2;900;500;0;Uma criatura monstruosa cujo corpo é revestido com canhões que nunca erram o alvo.
+198;3;Dian Keto the Cure Master;spell;normal;FALTANDO;light;1;0;0;0;Aumenta seus Pontos de vida por 1000 pontos.
+199;3;Different Dimension Capsule;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 carta do seu Deck e remova-a do jogo virada para baixo (sem revelar). Durante a sua 2° Standby Phase após a ativação, destrua esta carta e adicione a carta removida para a sua mão.
+200;3;Different Dimension Dragon;monster;effect;light;dragon;5;1200;1500;0;Esta carta não pode ser destruída por Spell e Trap Cards que não designam alvo. Além disso, esta carta não é destruída em batalha ao batalhar com um monstro que possua 1900 ou menos de ATK.
+201;2;Dimensional Prison;trap;normal;FALTANDO;light;1;0;0;0;Quando o oponente declara um ataque: Selecione aquele monstro, Remova do jogo o monstro selecionado.
+202;3;Disk Magician;monster;normal;dark;machine;4;1350;1000;0;Este monstro se esconde em um pires e só aparece para executar um ataque.
+203;3;Dissolverock;monster;normal;earth;rock;3;900;1000;0;Um monstro nascido nos poços de lava, ele gera calor intenso que pode derreter seus inimigos.
+204;3;Divine Dragon Apocralyph;monster;effect;dark;dragon;4;1000;1500;0;Uma vez por turno: Você pode descartar 1 carta, então selecionar 1 monstro tipo Dragon no seu cemitério, adicione-o á sua mão.
+205;3;Divine Dragon Ragnarok;monster;normal;light;dragon;4;1500;1000;0;Um lendário dragão enviado pelos deuses como seu instrumento. Lendas dizem que, se provocado, o mundo inteiro vai afundar sob o mar.
+206;3;Dokurorider;monster;ritual;dark;zombie;6;1900;1850;0;Este monstro só pode ser invocado por ritual como Carta Mágica de ritual, (Revival of Dokurorider). Você também deve oferecerm monstros cujo total Level em estrelas seja igual a 6 ou mais como um tributo de seu campo ou a sua mão.
+207;3;Dokuroyaiba;monster;normal;fire;demonio;3;1000;400;0;Um bumerangue com cèrebro pode seguir um alvo até os confins da terra.
+208;3;Doma The Angel of Silence;monster;normal;dark;fairy;5;1600;1400;0;Esta fada dita as regras sobre o fim da existência.
+209;3;Double Summon;spell;normal;FALTANDO;light;1;0;0;0;Você pode Normal Summon 1 vez adicional neste turno.
+210;3;Double-Edged Sword Technique;trap;normal;FALTANDO;light;1;0;0;0;Selecione 2 monstros (Six Samurai) do seu Cemitério e os Special Summon na Posição de Ataque. Destrua eles durante a End Phase deste turno e receba dano igual ao ATK de todos os monstros destruídos.
+211;3;Dragon Capture Jar;trap;continua;FALTANDO;light;1;0;0;0;Enquanto esta carta permanecer virada para cima no campo, todos os monstros tipo Dragon virados para cima são alteradas para a posição de defesa e não pode mudar a sua Posição de Batalha.
+212;3;Dragon Treasure;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Dragon equipado com esta carta em 300 pontos.
+213;3;Dragon Zombie;monster;normal;dark;zombie;3;1600;0;0;Um dragão ressucitado por bruxaria. Sua respiração é altamente corrosiva.
+214;3;Dragoness the Wicked Knight;monster;fusion;wind;warrior;3;1200;900;0;(Armaill) + (One-Eyed Shield Dragon)
+215;3;Dragons Mirror;spell;normal;FALTANDO;light;1;0;0;0;Remova do duelo, do seu lado do campo ou do seu Cemitério, Monstros Materiais de Fusão que estão listados em um Fusion Monster Dragon-tipo, e Special Summon aquele Fusion Monster do seu Extra Deck. (Esta Special Summon é tratado como um Fusion Summon).
+216;3;Dragons Rebirth;trap;normal;FALTANDO;light;1;0;0;0;Selecione e remova do jogo 1 monstro Dragon que você controle virado para cima no campo. Special Summon 1 monstro Dragon da sua mão ou cemitério.
+217;3;Draining Shield;trap;normal;FALTANDO;light;1;0;0;0;Negue o ataque de 1 monstro do seu oponente e ganhe Pontos de Vida iguais ao ATK do monstro.
+218;3;Droll Bird;monster;normal;wind;winged-beast;2;600;500;0;Uma ave extinta e muito peculiar. 
+219;3;Drooling Lizard;monster;normal;earth;reptile;3;900;800;0;A cobra sangue-suga em forma humana, que ataca qualquer ser vivo que passa nas proximidades.
+220;3;Dunames Dark Witch;monster;normal;light;fairy;4;1800;1050;0;Mesmo quando todas as chances estiverem contra esta brava fada, ela avança na batalha e nunca recua.
+221;3;Dust Tornado;trap;normal;FALTANDO;light;1;0;0;0;Destrua 1 Carta Spell ou Trap que o seu oponente controle.
+222;3;Earth Armor Ninja;monster;effect;earth;warrior;5;1600;1200;0;Se o seu oponente controlar monstros e você não controlar monstros, você pode Special Summon essa carta (da sua mão).
+223;3;Earthbound Spirit;monster;normal;earth;demonio;4;500;2000;0;Uma criatura vingativa formado pelos espíritos dos guerreiros caídos, que arrasta qualquer um que se atreva a aborda-lo para as profundezas da terra.
+224;3;Earthquake;spell;normal;FALTANDO;light;1;0;0;0;Altere todos os monstros virados para cima para Modo de Defesa.
+225;3;Elder or the Six Samurai;monster;effect;earth;warrior;3;400;0;0;Se o seu oponente controla monstros e você não possui monstros no campo, você pode Special Summon essa carta (da sua mão).
+226;3;Electro-Whip;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Thunder equipado com esta carta em 300 pontos.
+227;3;Elemental Hero Avian;monster;normal;wind;warrior;3;1000;1000;0;Um Herói elementar alado que roda através do céu e manipula o vento. Sua assinatura, Featherbreak, dá um golpe de vilania muito alto.
+228;3;Elemental Hero Burstinatrix;monster;normal;fire;warrior;3;1200;800;0;Uma manipuladora de fogo que é a única mulher entre os Heróis elementares. Sua Burstfire queima a vilania.
+229;3;Elemental Hero Clayman;monster;normal;earth;warrior;4;800;2000;0;Um Herói elementar com um corpo de barro construído para durar. Ele irá preservar os seus colegas Heróis elementares a todo custo.
+230;3;Elemental HERO Flame Wingman;monster;fusion-effect;wind;warrior;6;2100;1200;0;(Elemental HERO Avian) + (Elemental HERO Burstinatrix). Esse monstro não pode ser Special Summon exceto por Fusion Summon. Se esta carta destrói um monstro como resultado de batalha e envia-o para o cemitério, inflija dano no seu oponente igual ao ATK do monstro destruido.
+231;3;Elemental Hero Neos;monster;normal;light;warrior;7;2500;2000;0;Um novo Elemental Hero chegou de Neo-Space! Quando ele inicia uma Fusion de Contato com um Neo-Spacian seus poderes desconhecidos são liberados.
+232;3;Elemental HERO Phoenix Enforcer;monster;fusion-effect;fire;warrior;6;2100;1200;0;(Elemental HERO Avian) + (Elemental HERO Burstinatrix). Esta carta não pode ser Special Summoned, exceto por Fusion Summon. Esta carta não pode ser destruída em batalha.
+233;3;Elemental Hero Sparkman;monster;normal;light;warrior;4;1600;1400;0;Um Herói elementar e um guerreiro da luz que empunha proficientemente vários tipos de armamento. Sua Shining Surge Flash corta o caminho da vilania.
+234;3;Elemental HERO Woodsman;monster;effect;earth;warrior;4;1000;2000;0;Uma vez por turno, durante sua Standby Phase, adicione 1 (Polimerização) de seu Deck ou Cemitério para a sua mão.
+235;3;Elfs Light;spell;equip;FALTANDO;light;1;0;0;0;Um monstro LIGHT equipado ganha 400 de ATK e perde 200 de DEF.
+236;3;Empress Mantis;monster;normal;wind;insect;6;2200;1400;0;Rainha de um exército de louva-deuses gigantes cujo comando move legiões.
+237;3;Enchanting Mermaid;monster;normal;water;fish;3;1200;900;0;A linda sereia que atrai viajantes para uma sepultura.
+238;3;End of the World;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta pode ser usada para Ritual Summon (Ruin, Queen of Oblivion), ou (Demise, King of Armageddon). Você também deve Tributar monstros do seu campo ou mão cujos níveis total igual ao Nível do monstro de Ritual que você está tentando Ritual convocar.
+239;3;Enishi, Shiens Chancellor;monster;effect;light;warrior;6;2200;1200;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta não pode ser Special Summoned exceto removendo 2 monstros (Six Samurai) no seu Cemitério do jogo. Uma vez por turno, você pode destruir 1 monstro virado para cima no campo. Se este efeito for ativado, esta carta não poderá atacar durante este turno.
+240;3;Enraged Muka Muka;monster;effect;earth;rock;5;1200;600;0;Esta carta ganha 400 de ATK e DEF para cada carta na sua mão.
+241;3;Exodia the Forbidden One;monster;effect;dark;mago;3;1000;1000;0;Quando você possuir (Right Leg of the Forbidden One), (Left Leg of the Forbidden One), (Right Arm of the Forbidden One), (Left Arm of the Forbidden One) em adição a essa carta em seu campo, você vence o Duelo (A menos que seu oponente tenha Obelisk The Tormentor supremo em campo).
+242;3;Exploder Dragon;monster;effect;earth;dragon;3;1000;0;0;Quando esta carta é destruída por batalha e enviada para o Cemitério, destrua o monstro que a destruiu. Enquanto essa carta estiver atacando, qualquer Dano de Batalha que qualquer dos jogadores receber de uma batalha envolvendo essa carta se torna 0.
+243;3;Eyearmor;monster;normal;dark;warrior;2;600;500;0;Descrição indisponível.
+244;3;Fairy Dragon;monster;normal;wind;dragon;4;1100;1200;0;Este belo espírito de dragão esconde suas feridas.
+245;3;Fairys Gift;monster;normal;light;mago;4;1400;1000;0;Este monstro voador é conhecido por entregar a felicidade para todos.
+246;3;Faith Bird;monster;normal;wind;winged-beast;4;1500;1100;0;Esta ave de cauda longa cega seus inimigos com luz mística.
+247;3;Feedback Warrior;monster;effect;earth;warrior;3;800;700;0;Quando esta carta é Normal Summoned ou modo especial: você pode selecionar 1 monstro virado para cima que você controla, torna-se Nível 3.
+248;3;Feral Imp;monster;normal;dark;demonio;4;1300;1400;0;Um demônio brincalhão que se esconde no escuro, esperando para atacar um inimigo desprevinido.
+249;3;Fiend Reflection #2;monster;normal;light;winged-beast;4;1100;1400;0;Um pássaro-fera que chama reforços com um espelho de mão.
+250;3;Fiend Scorpion;monster;normal;earth;insect;2;900;200;0;Um escorpião enorme habitado pela alma de um demônio. Normalmente ele retêm, mas tem um potencial inexplorado.
+251;3;Fiends Mirror;monster;ritual;dark;demonio;6;2100;1800;0;Este monstro só pode ser invocado por ritual coma carta mágica de ritual, (Beastly Mirror Ritual).
+252;3;Fiends Hand;monster;normal;dark;zombie;2;600;600;0;Descrição indisponível.
+253;3;Final Flame;spell;normal;FALTANDO;light;1;0;0;0;Inflija 600 de dano no seu oponente.
+254;3;Final Ritual of the Ancients;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Reshef the Dark Being). Você precisa, também, sacrificar monstros em sua mão ou no seu lado do campo cujos níveis combinados sejam 8 ou mais.
+255;3;Fire Darts;trap;normal;FALTANDO;light;1;0;0;0;Ativar apenas quando você não possuir cartas na sua mão. Role um dado de seis lados 3 vezes, e inflija dano no seu oponente igual ao resultado total dos dados x 100.
+256;3;Fire Kraken;monster;normal;fire;water;4;1600;1500;0;Uma lula que vive no fogo e calor.
+257;3;Firegrass;monster;normal;earth;plant;2;700;600;0;Uma planta que cospe fogo encontrada crescendo perto de vulcões.
+258;3;Firewing Pegasus;monster;normal;fire;beast;6;2250;1800;0;Um cavalo celeste subindo pelos céus com asas vermelhas.
+259;3;Fireyarou;monster;normal;fire;fire;4;1300;1000;0;Uma criatura maléfica envolto em chamas que ataca os inimigos com fogo intenso.
+260;3;Fissure;spell;normal;FALTANDO;light;1;0;0;0;Destrua o monstro virado para cima com o menor ATK no lado do seu oponente do campo.
+261;3;Five-Headed Dragon;monster;fusion-effect;dark;dragon;12;5000;5000;0;5 Dragon-Type Monsters. Essa carta só pode ser Fusion Summoned, e não pode ser Special Summoned por outros efeitos. Essa carta não é destruída por batalha envolvendo monstros de atributo DARK, EARTH, WATER,FIRE, ou WIND.
+262;3;Flame Cerebrus;monster;normal;fire;fire;6;2100;1800;0;Conhecido por muitos como o (Matador de fogo), este monstro é capaz de queimar inimigos a cinzas.
+263;3;Flame Champion;monster;normal;fire;fire;5;1900;1300;0;Um guerreiro protegido por um escudo flamejante que anula qualquer ataque.
+264;3;Flame Dancer;monster;normal;fire;fire;2;550;450;0;Este monstro se move enquanto balança seus laços de fogo.
+265;3;Flame Ghost;monster;fusion;dark;zombie;3;1000;800;0;(Skull Servant) + (Dissolverock)
+266;3;Flame Manipulator;monster;normal;fire;mago;3;900;1000;0;Esta Spell caster ataca seus inimigos com magias de fogo-relacionados, como (Mar de Chamas) e (Parede de fogo).
+267;3;Flame Swordsman;monster;fusion;fire;warrior;5;1800;1600;0;(Flame Manipulator) + (Masaki the Legendary Swordsman)
+268;3;Flame Viper;monster;normal;earth;fire;2;400;450;0;Um vapor cobra cuja velocidade torna um alvo difícil.
+269;3;Flower Wolf;monster;fusion;earth;beast;5;1800;1400;0;(Silver Fang) + (Dark world Thorns)
+270;3;Flying Fish;monster;normal;wind;fish;4;800;500;0;Trés desejos são concedidos para aqueles afortunados que apenas verem esse monstro em pleno voo.
+271;3;Flying Kamakiri #2;monster;normal;wind;insect;4;1500;800;0;Um louva-deus voador que se alimenta principalmente de insetos.
+272;3;Flying Penguin;monster;normal;water;water;4;1200;1000;0;Um pinguim muito raro que voa com as orelhas em forma de asas.
+273;3;Follow Wind;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Winged Beast equipado com esta carta em 300 pontos.
+274;3;Foolish Burial;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro do seu Deck e o envie para o Cemitério.
+275;3;Fortress Whale;monster;ritual;water;fish;7;2350;2150;0;Este monstro só pode ser invocado por um ritual com a carta mágica de ritual, (Fortress Whales Oath).
+276;3;Forest;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos os Insect, Beast, Plant e Beast-Warrior em 200 pontos.
+277;3;Fortress Whales Oath;spell;ritual;FALTANDO;demonio;1;0;0;0;Esta carta é para Ritual Summon (Fortress Whale). Você também deve oferecer como Tributo monstro cujo o nível seja igual ou superior a 7 do campo ou da sua mão.
+278;3;Fossil Dig;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 monstro Dinosaur-Type de Nível 6 ou menor do seu Deck para a sua mão.
+279;3;Frenzied Panda;monster;normal;earth;beast;4;1200;1000;0;A besta selvagem que carrega uma grande vara de bambu para nocautear seus inimigos.
+280;3;Frog the Jam;monster;normal;water;water;2;700;500;0;Uma gosma com a cabeça de um sapo, ele ataca pelo coaxar terrivel.
+281;3;Frostosaurus;monster;normal;water;dinosaur;6;2600;1700;0;O metabolismo deste monstro lhe possibilita suportar longos períodos de frio, possuindo o poder de se tornar um criatura de gelo sólido! Nada mais pode suportar tais temperaturas, especialmente vítimas de sua fúria glacial.
+282;3;Full Salvo;trap;normal;FALTANDO;light;1;0;0;0;Após a ativação desta carta, envie toda a sua mão para o Cemitério. Inflija 200 de dano no seu oponente para cada carta que você enviou para o Cemitério por esse efeito.
+283;3;Fusion Sage;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 (Polymerization) do seu Deck para a sua mão.
+284;3;Fusionist;monster;fusion;earth;beast;3;900;700;0;(Petit Angel) + (Mystical Sheep #2)
+285;3;Gadget Soldier;monster;normal;fire;machine;6;1800;2000;0;Um guerreiro máquina, enferrujado mas nascido para a batalha.
+286;3;Gagagigo;monster;normal;water;reptile;4;1850;1000;0;Este malfeitor jovem costumava ter um coração mau, mas pelo encontro de uma pessoa especial, ele descobriu para a justiça.
+287;3;Gaia Power;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros EARTH em 500 pontos e diminuir a sua DEF em 400 pontos.
+288;3;Gaia the Dragon Champion;monster;fusion;wind;dragon;7;2600;2100;0;(Gaia The Fierce Knight) + (Curse of Dragon)
+289;3;Gaia The Fierce Knight;monster;normal;earth;warrior;7;2300;2100;0;Um cavaleiro cujo cavalo viaja mais rápido que o vento. Ele conta com um poder de batalha incrível.
+290;3;Gamma The Magnet Warrior;monster;normal;earth;rock;4;1500;1800;0;Alpha, Beta, Gamma se unem como um para formar um poderoso monstro.
+291;3;Garma Sword;monster;ritual;dark;warrior;7;2550;2150;0;Este carta só pode ser invocada por ritual com a carta mágica de ritual, (Garma Sword Oath).
+292;3;Garma Sword Oath;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Garma Sword). Você também deve oferecer como Tributo um monstro cujos o níveis totais igual ou superior a 7 do campo ou a sua mão.
+293;3;Garnecia Elefantis;monster;normal;earth;beast-warrior;7;2400;2000;0;Um monstro tão pesado que cada passo cria crateras na terra.
+294;3;Garoozis;monster;normal;fire;beast-warrior;5;1800;1500;0;Um guerreiro com um machado e com cabeça de dragão.
+295;3;Gazelle the King of Mythical Beasts;monster;normal;earth;beast;4;1500;1200;0;Este monstro se move tão rápido que parece uma ilusão aos olhos dos mortais.
+296;3;Gear Golem the Moving Fortress;monster;effect;earth;machine;4;800;2200;0;Uma vez por turno, durante a sua Main Phase 1, voce pode pagar 800 LP para essa carta poder atacar os pontos de vida do seu oponente diretamente nesse turno.
+297;3;Gem-Knight Garnet;monster;normal;earth;fire;4;1900;0;0;Um guerreiro Gem Knight com uma alma Garnet dentro. Seu punho Flaming Ferro esmaga todos os inimigos.
+298;3;Gem-Knight Sapphire;monster;normal;earth;water;4;0;2100;0;Ele controla a água em sua vontade com o poder de safira e protege-lo dos ataques inimigos. Sua proteção silêncio tem a confiança de seus companheiros.
+299;3;Gemini Elf;monster;normal;earth;mago;4;1900;900;0;Elfos gêmeos que alteram seus ataques.
+300;3;Gene-Warped Warwolf;monster;normal;earth;beast-warrior;4;2000;100;0;Esse lobo guerreiro recebeu incalculável força através de terrível manipulação genética. Sua natureza gentil foi completamente eliminada, e ele agora vive apenas para espalhar destruição.
+301;3;Genex Ally Changer;monster;effect;dark;machine;3;1200;1800;0;Uma vez por turno, você pode selecionar 1 monstro virado para cima no campo e declarar 1 Atributo. O Atributo do monstro selecionado é alterado para o Atributo declarado, até a End Phase deste turno.
+302;3;Genex Ally Crusher;monster;effect;dark;machine;4;1000;2000;0;Uma vez por turno, enquanto esta carta virada para cima no campo, quando um monstro com o mesmo Atributo desta carta é Normal Summoned no seu lado do campo, você pode selecionar e destruir 1 carta que o seu oponente controla.
+303;3;Genex Ally Duradark;monster;effect;dark;machine;4;1800;200;0;Uma vez por turno, selecione e destrua 1 monstro virado para cima na Posição de Ataque que o seu oponente controla com o mesmo Atributo desta carta. Esta carta não pode declarar um ataque durante o turno em que esse efeito é ativado.
+304;3;Genex Ally Solid;monster;effect;dark;machine;2;500;1200;0;Uma vez por turno, você pode enviar 1 monstro (Genex) WATER virado para cima que você controla ao Cemitério para comprar 2 cartas.
+305;3;Genex Blastfan;monster;effect;wind;mago;4;1600;1300;0;Quando esta carta é Special Summoned, você pode adicionar 1 monstro (Genex) DARK do seu Deck para a sua mão.
+306;3;Genex Furnace;monster;effect;fire;fire;5;2000;1300;0;Se você controla um (Genex Controller), você pode Normal Summon esta carta sem Tributo.
+307;3;Genex Neutron;monster;effect;light;machine;4;1800;1200;0;Quando esta carta é Normal Summoned, durante a End Phase deste turno, você pode adicionar 1 monstro Tuner Machine-Type do seu Deck para a sua mão.
+308;3;Genex Power Planner;monster;effect;light;mago;1;300;200;0;Quando esta carta é Normal Summoned, você pode adicionar 1 Effect Monster (Genex) de nível 3 do seu Deck para a sua mão.
+309;3;Genex Searcher;monster;effect;earth;machine;4;1600;400;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode Special Summon 1 monstro (Genex) com 1500 ou menos de ATK do seu Deck para o seu lado do campo virado para cima na Posição de Ataque.
+310;3;Genex Undine;monster;effect;water;water;3;1200;1600;0;Quando esta carta é Normal Summoned, você pode enviar 1 monstro WATER do seu Deck ao Cemitério para adicionar 1 (Genex Controller) do seu Deck para a sua mão.
+311;3;Genex Worker;monster;effect;wind;machine;3;1200;1200;0;Você pode Tributar esta carta para Special Summon 1 monstro (Genex) da sua mão para o seu lado do campo.
+312;3;Ghoul With An Appetite;monster;normal;dark;zombie;4;1600;1200;0;Um monstro com um apetite forte que nunca tenha sido satisfeito.
+313;3;Giant Flea;monster;normal;earth;insect;4;1500;1200;0;Uma pulga enorme que se alimenta do sangue de seus inimigos.
+314;3;Giant Germ;monster;effect;dark;demonio;2;1000;100;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, inflija 500 de dano ao seu oponente. Além disso, você pode Special Summon até 2 (Giant Germ) do seu Deck para o seu lado do campo virados para cima na Posição de Ataque.
+315;3;Giant Rat;monster;effect;earth;beast;4;1400;1450;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode Special Summon 1 monstro EARTH com 1500 ou menos de ATK do seu Deck virado para cima na Posição de Ataque.
+316;3;Giant Red Seasnake;monster;normal;water;water;4;1800;800;0;Uma cobra marítima que ataca partindo os inimigos com seus dentes afiados.
+317;3;Giant Soldier of Stone;monster;normal;earth;rock;3;1300;2000;0;Um guerreiro gigante feito de pedra. Um soco desta criatura causa terremotos.
+318;3;Giant Turtle Who Feeds on Flames;monster;normal;water;water;5;1400;1800;0;A tartaruga de casco vermelho que se alimenta de chamas.
+319;3;Gift of The Mystical Elf;trap;normal;FALTANDO;light;1;0;0;0;Ganhe 300 LPs para cada monstro no campo.
+320;3;Giga Gagagigo;monster;normal;water;reptile;5;2450;1500;0;A fim de combater o mal tremendo, ganhou o formidável poder através da reconstrução do corpo, mas perdeu o seu coração e sua redenção.
+321;3;Giga-Tech Wolf;monster;normal;fire;machine;4;1200;1400;0;Um lobo de ferro com presas afiadas que podem penetrar qualquer armadura.
+322;3;Gigobyte;monster;normal;water;reptile;1;350;300;0;Ele tem uma alma tranquila, mas carrega um destino que um dia seu coração será manchado pelo mal...
+323;3;Gil Garth;monster;normal;dark;demonio;4;1800;1200;0;Esta máquina de terror blindado que impiedosamente ataca os inimigos com sua katana gigante.
+324;3;Giltia the D. Knight;monster;fusion;light;warrior;5;1850;1500;0;(Guardian of the Labyrinth) + (Protector of the Throne)
+325;3;Girochin Kuwagata;monster;normal;wind;insect;4;1700;1000;0;Apesar de seu tamanho pequeno, este monstro tem mandíbulas poderosas que podem deixar até metal em pedaços.
+326;3;Gladiator Beast Andal;monster;normal;earth;beast-warrior;4;1900;1500;0;Este urso guerreiro de um só olho é um agressivo caçador que derruba suas presas como poderosos golpes de suas garras. Ninguém pode suportar a violência de seus tremendamente rápidos e pesados ataques.
+327;3;Goblin Calligrapher;monster;normal;dark;demonio;1;400;400;0;Um Goblin, que se dedica a dominar a caligrafia perfeita da palavra (falso). Ele dá tudo de cada curso.
+328;3;Goblin Thief;spell;normal;FALTANDO;light;1;0;0;0;Inflija 500 de dano no seu oponente e ganhe 500 LPs.
+329;3;Goblins Secret Remedy;spell;normal;FALTANDO;light;1;0;0;0;Ganhe 600 LPs.
+330;3;Gogiga Gagagigo;monster;normal;water;reptile;8;2950;2800;0;Sua alma de longa desde que entrou em colapso, o corpo de forma imprudente continua a frente, impulsionado por um desejo de mais poder. Ele já não lembra sua ex auto-forma....
+331;3;Gokibore;monster;normal;earth;insect;4;1200;1400;0;Uma barata. Grande e esférica que ataca seus inimigos rolando sobre eles.
+332;3;Gokipon;monster;effect;dark;insect;2;800;800;0;Quando esta carta é destruída por batalha e enviada ao Cemitério: Você pode adicionar um Insect-Type monstro com 1500 ou menos de ATK do seu Deck para asua mão.
+333;3;Gold Sarcophagus;spell;normal;FALTANDO;light;1;0;0;0;Selecione e remova do jogo 1 carta no seu Deck. Durante sua segunda Standby Phase depois da ativação desta carta, adicione a carta removida a sua mão.
+334;3;Golem Dragon;monster;effect;earth;dragon;4;200;2000;0;Seu oponente não pode atacar um monstro Dragon virado para cima no campo, exceto essa carta.
+335;3;Gottoms Emergency Call;trap;normal;FALTANDO;light;1;0;0;0;Ative apenas se houver monstro (X-Saber) virados para cima no campo. Selecione 2 monstros (X-Saber) nos Cemitérios de qualquer dos jogadores, Special Summon aqueles monstros para o seu lado do campo.
+336;3;Gradius;monster;normal;light;machine;4;1200;800;0;Um caça de alto desempenho com cápsulas de energia para as capacidades de ataque variáveis.
+337;3;Grand Tiki Elder;monster;normal;dark;demonio;4;1500;800;0;Um monstro mascarado que detém a mais mortífera das maldições.
+338;3;Grandmaster of the Six Samurai;monster;effect;earth;warrior;5;2100;800;0;Você pode controlar apenas 1 monstro (Grand master of the Six Samurai). Enquanto você controla um monstro (Six Samurai) virado para cima, você pode Special Summon esta carta da sua mão.
+339;3;Gravity Axe - Grarl;spell;equip;FALTANDO;light;1;0;0;0;O monstro equipado ganha 500 de ATK.
+340;3;Gravity Bind;trap;continua;FALTANDO;light;1;0;0;0;Todos os monstros de Nível 4 ou acima no campo não podem atacar.
+341;3;Great Angus;monster;normal;fire;beast;4;1800;600;0;Um animal muito violento, é sempre frenético. As pessoas dizem que nunca viram isso em silêncio.
+342;3;Great Maju Garzett;monster;effect;dark;demonio;6;0;0;0;O ATK desta carta se torna duas vezes o ATK original de 1 monstro que você Tributou para a Tribute Summon dessa carta.
+343;3;Great Shogun Shien;monster;effect;fire;warrior;7;2500;2400;0;Se você controla 2 ou mais monstros Six Samurai, você pode invocar especial esta carta da sua mão. Seu oponente pode ativar apenas 1 Spell /Trap por turno. 
+344;3;Great White;monster;normal;water;fish;4;1600;800;0;Um tubarão branco gigante com dentes afiados.
+345;3;Green Gadget;monster;effect;earth;machine;4;1400;600;0;Quando você Normal Summon ou Special Summon esta carta, você pode adicionar 1 (Red Gadget) do seu Deck à sua mão.
+346;3;Green Phantom King;monster;normal;earth;plant;3;500;1600;0;Este jovem rei da floresta vive em um mundo verde, com árvores e abundante vida selvagem.
+347;3;Ground Attacker Bugroth;monster;normal;earth;machine;4;1500;1000;0;Um robô de batalha terrestre que já foi usada para a guerra no mar.
+348;3;Guardian Angel Joan;monster;effect;light;fairy;7;2800;2000;0;Quando esta carta destrói um monstro por batalha e o envia para o Cemitério, ganhe LPs igual ao ATK original do monstro destruído. 
+349;3;Guardian of the Labyrinth;monster;normal;earth;warrior;4;1000;1200;0;Um monstro que guarda a entrada para o inferno.
+350;3;Guardian of the Throne Room;monster;normal;light;machine;4;1650;1600;0;Um guarda robô construído para proteger as salas do trono, ele está armado com mísseis teleguiados.
+351;3;Gyakutenno Megami;monster;normal;light;fairy;6;1800;2000;0;Esta fada usa o seu poder místico para proteger os fracos e prova apoio espiritual.
+352;3;Hamburger Recipe;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Hungry Burger). Você também deve oferecer monstro cujo total Level em estrelas igual ou superior a 6 do campo ou a sua mão como um tributo.
+353;3;Hand of the Six Samurai;monster;effect;fire;warrior;3;1600;1000;0;Enquanto você controla outro monstro (Six Samurai), você pode tributar 1 monstro (Six Samurai) para destruir 1 monstro no campo.
+354;3;Hard Armor;monster;normal;earth;warrior;3;300;1200;0;Vive dentro de uma armadura rígida que deixa seus atacantes com os ossos bambos.
+355;3;Harpie Girl;monster;normal;wind;winged-beast;2;500;500;0;Um filhote de Harpie que aspira a voar lindamente e maravilhosamente, mas atacar fortemente.
+356;3;Harpie Lady;monster;normal;wind;winged-beast;4;1300;1400;0;Este animal com forma humana com asas é bonito de ver, mas mortal na batalha.
+357;3;Harpies Brother;monster;normal;wind;winged-beast;4;1800;600;0;Com o olhar de um falcão e o voo a uma velocidade superior ao Mach 5, este monstro é um mestre do céu.
+358;3;Hayabusa Knight;monster;effect;earth;warrior;3;1000;700;0;Esta carta pode atacar duas vezes durante uma mesma Battle Phase.
+359;3;Headless Knight;monster;normal;earth;demonio;4;1450;1700;0;Um espírito atormentado de um cavaleiro acusado falsamente que vagueia em busca da verdade e da justiça.
+360;3;Heliosphere Dragon;monster;effect;light;dragon;4;0;1900;0;Enquanto seu oponente tem 4 ou menos cartas em sua mão e este cartão é o unico monstro que você controla, seu oponente não pode declarar um ataque. Uma vez por turno, se você controlar um monstro Dragon-Type nivel 8: Você pode fazer este cartão tornar Nível 8 até a End Phase.
+361;3;Hercules Beetle;monster;normal;earth;insect;5;1500;2000;0;Um besouro enorme com uma carapaça resistente e um chifre perigoso.
+362;3;Hibikime;monster;normal;earth;warrior;4;1450;1000;0;Confunde monstros inimigos com um barulho que é atordoador para os ouvidos.
+363;3;Hieratic Dragon of Sutekh;monster;effect;light;dragon;8;2800;2000;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta só pode ser Special Summoned(da sua mão) banido do jogo 3 Dragon-Type Normal Monsters que estejam no seu Cemitério. Uma vez por turno: Você pode banir 1 Dragon-Type Monster que esteja no seu Cemitério, para selecionar uma carta no campo e a destruir.
+364;3;Hieratic Dragon of Tefnuit;monster;effect;light;dragon;6;2100;1400;0;Se o seu oponente controla monstros e você não controla monstros, você pode Special Summon esta carta (da sua mão). Esta carta não pode atacar no turno em que é Special Summoned dessa maneira.
+365;3;High Tide Gyojin;monster;normal;water;water;4;1650;1300;0;Um guerreiro muito ágil meio-peixe conhecido por seus ataques implacáveis.
+366;3;Hinotama;spell;normal;FALTANDO;light;1;0;0;0;Inflija 500 de dano no seu oponente.
+367;3;Hinotama Soul;monster;normal;fire;fire;2;600;500;0;Uma criatura chama intensamente quente que não deixa nada em pé no seu caminho.
+368;3;Hitotsu-Me Giant;monster;normal;earth;beast-warrior;4;1200;1000;0;Um gigante de um olho só com espessura, braços poderosos feitos para a entrega de golpes.
+369;3;Horus the Black Flame Dragon LV4;monster;effect;fire;dragon;4;1600;1000;0;O controle desta carta não pode ser trocado. Durante a End Phase de um turno em que esta carta destruiu um monstro por batalha, por enviar essa carta para o Cemitério, Special Summon 1 (Horus the Black FlameDragon LV6) da sua mão ou Deck.
+370;3;Horus the Black Flame Dragon LV6;monster;effect;fire;dragon;6;2300;1600;0;Esta carta não é afetada pelos efeitos de Cartas Spell. Durante a End Phase de um turno em que essa carta destruiu um monstro por batalha, você pode envia-la para o Cemitério para Special Summon 1 (Horus the Black Flame Dragon LV8) da sua mão ou Deck.
+371;3;Horus the Black Flame Dragon LV8;monster;effect;fire;dragon;8;3000;1800;0;Esta carta não pode ser Normal Summoned ou Set. Essa carta não pode ser Special Summoned exceto pelo efeito de (Horus the Black Flame Dragon LV6). Você pode negar a ativação e efeito de quaisquer Cartas Spell e destrui-las.
+372;3;Howling Insect;monster;effect;earth;insect;3;1200;1300;0;Quando esta carta é destruída por batalha e enviada ao Cemitério: Você pode Special Summon 1 Insect-Type monstro com 1500 ou menos de ATK do seu Deck.
+373;3;Humanoid Slime;monster;normal;water;water;4;800;2000;0;Esta gosma tem, aparentemente, alguns genes humanos em sua composição genética.
+374;3;Humanoid Worm Drake;monster;fusion;water;water;7;2200;2000;0;(Worm Drake) + (Humanoid Slime)
+375;3;Hungry Burger;monster;ritual;dark;warrior;6;2000;1850;0;Esta carta pode ser invocada por ritual como a carta mágica de ritual, (Hamburger Recipe). Você também deve oferecer como Tributo monstros cujo total de Leveis seja igual ou superior a 6 do campo ou da sua mão.
+376;3;Hunter Dragon;monster;normal;dark;dragon;3;1700;100;0;Este dragão derrotou incontáveis presas com suas presas afiadas. Ele ataca muito rapidamente, porque se ele não atacar primeiro ele é vulnerável a um contra-ataque.
+377;3;Hunter Spider;monster;normal;earth;insect;5;1600;1400;0;Este monstro alimenta-se de tudo que cai em sua teia.
+378;3;Hydrogeddon;monster;effect;water;dinosaur;4;1600;1000;0;Quando esta carta destrói um monstro do oponente em batalha e a envia para o Cemitério, você pode executar o Special Summon de 1 (Hydrogeddon) do seu Baralho.
+379;3;Hyosube;monster;normal;water;water;4;1500;900;0;Esse anfíbio é forte no ataque, mas deixa muito a desejar quando defende.
+380;3;Hyozanryu;monster;normal;light;dragon;7;2100;2800;0;Um dragão criado a partir de um enorme diamante que brilha com luz ofuscante.
+381;3;Ill Witch;monster;normal;earth;mago;5;1200;1500;0;Este monstro explode os inimigos com rajadas de vento inesperadas.
+382;3;Illusionist Faceless Mage;monster;normal;dark;mago;5;1200;2200;0;Manipula os ataques inimigos com o poder da ilusão.
+383;3;Infernity Archer;monster;effect;dark;demonio;6;2000;1000;0;Se você não possuir cartas em sua Mão, essa carta pode atacar seu oponente diretamente.
+384;3;Inferno Fire Blast;spell;normal;FALTANDO;light;1;0;0;0;Inflija dano no seu oponente em quantia igual ao ATK original de 1 (Red-Eyes B. Dragon) virado para cima que você controle.
+385;3;Inpachi;monster;normal;earth;machine;4;1600;1900;0;Um registro que ataca viajantes perdidos na floresta. Originalmente uma grande árvore, que foi cortada e possuída por um espírito maligno.
+386;3;Insect Knight;monster;normal;earth;insect;4;1900;1500;0;De todos os lutadores inseto, ele é o paradigma do inseto Invasor indestrutível, que só a elite da elite pode aderir. Não podemos continuar a ver suas proezas de batalha inigualável.
+387;3;Introduction to Gallantry;trap;normal;FALTANDO;light;1;0;0;0;Ative apenas quando o seu oponente possuir 5 ou mais cartas na mão. Seu oponente descarta 1 carta aleatória.
+388;3;Island Turtle;monster;normal;water;water;4;1100;2000;0;Uma tartaruga gigante que é muitas vezes confundida com uma ilha.
+389;3;Jacks Knight;monster;normal;light;warrior;5;1900;1000;0;Um mestre espadachim forte. Sua lealdade é para com a justiça, o dever de proteger os mais fracos.
+390;3;Jar of Greed;trap;normal;FALTANDO;light;1;0;0;0;Compre 1 carta do seu Deck.
+391;3;Javelin Beetle;monster;ritual;earth;insect;8;2450;2550;0;Esta carta somente pode ser Ritual Summoned com o Ritual Spell Card, (Javelin Beetle Pact).
+392;3;Javelin Beetle Pact;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Javelin Beetle). Você deve Tributar monstros do seu lado do campo e/ou da sua mão até obter um Nível total igual a 8 ou maior.
+393;3;Jellyfish;monster;normal;water;water;4;1200;1500;0;Uma água-viva quase invisível, semi-transparente que habita no mar.
+394;3;Jerry Beans Man;monster;normal;earth;plant;3;1750;0;0;Jerry, um soldado de feijão, acredita que ele é o guerreiro mais fortedo mundo, mas sua verdadeira capacidade ainda não foi testada.
+395;3;Jinzo;monster;effect;dark;machine;6;2400;1500;0;Cartas Trap não podem ser ativadas e os efeitos de todas as Cartas Trap no campo são negados.
+396;3;Judge Man;monster;normal;earth;warrior;6;2200;1500;0;Este club-wielding batalha até o fim e nunca se rende.
+397;3;Just Desserts;trap;normal;FALTANDO;light;1;0;0;0;Inflija 500 pontos de dano aos pontos de vida do seu oponente por cada monstro no lado do campo dele.
+398;3;Kabazauls;monster;normal;water;dinosaur;4;1700;1500;0;Um enorme monstro em forma de um hipopótamo. O espirro de seu corpo gigantesco é tão intenso que as pessoas confundem isso com um furacão.
+399;3;Kagemusha of the Blue Flame;monster;normal;earth;warrior;2;800;400;0;Servindo como uma dupla para o governador da Chama Azul, ele é um mestre espadachim que usa uma lâmina afiada.
+400;3;Kaibaman;monster;effect;light;warrior;3;200;700;0;Você pode Tributar esta carta para Special Summon 1 (Blue-Eyes White Dragon) da sua mão.
+401;3;Kairyu-Shin;monster;normal;water;sea-serpent;5;1800;1500;0;Um dragão do mar conhecido como o Rei do mar, ele ataca com ondas de maré.
+402;3;Kaiser Dragon;monster;fusion;light;dragon;7;2300;2000;0;(Winged Dragon, Guardian of the Fortress #1) + (Fairy Dragon)
+403;3;Kaminari Attack;monster;fusion;wind;thunder;5;1900;1400;0;(Ocubeam) + (Mega Thunderball)
+404;3;Karbonala Warrior;monster;fusion;earth;warrior;4;1500;1200;0;(M-Warrior #1) + (M-Warrior #2)
+405;3;Key Mace;monster;normal;light;fairy;1;400;300;0;Descrição indisponível.
+406;3;Killer Needle;monster;normal;wind;insect;4;1200;1000;0;Uma abelha enorme com força excepcional, e é especialmente perigosa em um exame.
+407;3;King Fog;monster;normal;dark;demonio;3;1000;900;0;Um demônio que vive em uma cortina de fumaça que cega.
+408;3;King of Yamimakai;monster;normal;dark;demonio;5;2000;1530;0;Detém o poder das trevas para destruir seus inimigos.
+409;3;Kojikocy;monster;normal;earth;warrior;4;1500;1200;0;Um caçador com armas poderosas que podem esmagar pedras.
+410;3;Koumori Dragon;monster;normal;dark;dragon;4;1500;1200;0;Um vicioso dragão cuspidor de fogo, cuja terrível chama corrompe a alma de suas vítimas.
+411;3;Kozaky;monster;normal;dark;demonio;1;400;400;0;Um viciado em workaholic que dedica tudo a sua pesquisa em todas as línguas do Mundo das Trevas. Sua mente entrou em colapso por causa de trabalhar demais.
+412;3;Kumootoko;monster;normal;earth;insect;3;700;1400;0;Uma aranha gigante e inteligente que prende os inimigos com teia.
+413;3;Kurama;monster;normal;wind;winged-beast;4;800;800;0;Um pássaro misterioso com ataques vindos do céu usando sua cauda como chicote.
+414;3;Kuwagata Alpha;monster;normal;earth;insect;4;1250;1000;0;Um besouro muito maligno que vai até o céu.
+415;3;La Jinn the Mystical Genie of the Lamp;monster;normal;dark;demonio;4;1800;1000;0;Um gênio da lâmpada que está no beck e é chamado por seu mestre.
+416;3;Labyrinth Wall;monster;normal;earth;rock;5;0;3000;0;Estas paredes formam um labirinto sem saída para os inimigos.
+417;3;Lady of Faith;monster;normal;light;mago;3;1100;800;0;Alivia a alma dos outros, cantando uma canção mágica misteriosa.
+418;3;LaMoon;monster;normal;earth;mago;5;1200;1700;0;Uma feiticeira que extrai seu poder da paisagem lunar.
+419;3;Larvas;monster;normal;earth;beast;3;800;1000;0;Os movimentos rápidos de pássaro são usados para estrangular os monstros adversários com seus longos braços finos.
+420;3;Laser Cannon Armor;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Insect equipado com esta carta em 300 pontos.
+421;3;Last Day of Witch;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros virados para cima Tipo Spell caster no campo.
+422;3;Launcher Spider;monster;normal;fire;machine;7;2200;2500;0;Uma aranha mecânica com lançadores de mísseis para todos os lados.
+423;3;Lava Battleguard;monster;effect;earth;warrior;5;1550;1800;0;Esta carta ganha 500 de ATK para cada (Swamp Battleguard) que você controle.
+424;3;Left Arm of the Forbidden One;monster;normal;dark;mago;1;200;300;0;O Braço esquerdo selado por magia. Todo aquele que rompe o selo recebe poder infinito.
+425;3;Left Leg of the Forbidden One;monster;normal;dark;mago;1;200;300;0;A perna esquerda selada por magia. Todo aquele que rompe o selo recebe poder infinito.
+426;3;Legendary Six Samurai - Kageki;monster;effect;wind;warrior;3;200;2000;0;Quando esta carta é invocada por uma Invocação normal, você pode invocar especialmente 1 monstro (Six Samurai) de nível 4 ou inferior da sua mão. Enquanto você controla outro (Six Samurai) com um nome diferente no campo, está carta ganha 1500 ATK.
+427;3;Legendary Six Samurai - Kizan;monster;effect;earth;warrior;4;1800;500;0;Se você controla um monstro (Six Samurai) virado para cima, exceto (Legendary Six Samurai- Kizan), você pode Special summon esta carta da sua mão. Enquanto você controlar 2 ou mais monstros (Six Samurai), sem ser (Legendary Six Samurai- Kizan), virados para cima, esta carta ganha 300 ATK e DEF.
+428;3;Legendary Six Samurai - Mizuho;monster;effect;fire;warrior;3;1600;1000;0;Se você controla um (Legendary Six Samurai - Shinai) virado para cima, você pode special Summon esta carta da sua mão. Uma vez por turno, você pode tributar 1 monstro (Six Samurai), exceto esta carta, para destruir 1 carta no campo.
+429;3;Legendary Six Samurai - Shinai;monster;effect;water;warrior;3;1500;1500;0;Se você controla uma (Legendary Six Samurai - Mizuho) virada para cima, você pode Special Summon esta carta da sua mão. Se esta carta é tributada, selecione e adicione 1 monstro (Six Samurai) do seu Cemitério em sua mão, exceto (Legendary Six Samurai - Shinai).
+430;3;Legendary Sword;spell;equip;FALTANDO;light;1;0;0;0;Aumente o ATK e a DEF de um monstro Warrior equipado com esta carta em 300 pontos.
+431;3;Leogun;monster;normal;earth;beast;5;1750;1550;0;Enorme monstro com juba semelhante ao Rei dos Animais.
+432;3;Lesser Dragon;monster;normal;wind;dragon;4;1200;1000;0;Um dragão pequeno incapaz de respirar fogo.
+433;3;Level Modulation;spell;normal;FALTANDO;light;1;0;0;0;Seu oponente saca 2 cartas. Special Summon de 1 monstro do seu Cemitério que inclua (LV) em seu nome, ignorando as condições de Invocação. O monstro que foi Special Summoned por este efeito não pode atacar, nem ativar ou aplicar o seu efeito neste turno.
+434;3;Level Up!;spell;normal;FALTANDO;demonio;1;0;0;0;Envie 1 monstro LV face para cima que você controle para o cemitério, Special Summon 1 monstro da sua Mão ou Deck que esteja listado no texto desse monstro, ignore as condições de Invocação.
+435;3;Life Equalizer;trap;normal;FALTANDO;light;1;0;0;0;Ative apenas quando a diferença entre os LPs de ambos os jogadores é de 8000 ou mais. Os LPs de ambos os jogadores se tornam 3000.
+436;3;Lightning Conger;monster;normal;water;thunder;3;350;750;0;Uma enguia gigante que gera uma quantidade enorme de electricidade e liberta-os como trovões.
+437;1;Lightning Vortex;spell;normal;FALTANDO;light;1;0;0;0;Descarte 1 carta. Destrua todos os monstros virados para cima que o seu oponente controle.
+438;3;Limiter Removal;spell;quick-play;FALTANDO;light;1;0;0;0;Até a End Phase, dobre o ATK de todos os monstros do Tipo Machine que você controlava tanto na ativação quanto na resolução deste card. Durante a Fase Final, destrua esses monstros.
+439;3;Liquid Beast;monster;normal;water;water;3;950;800;0;Uma forma de vida aquática e liquida.
+440;3;Lizard Soldier;monster;normal;wind;dragon;3;1100;800;0;Um soldado besta derivado de dragões, ele é pequeno para um Dragon-Type. Move-se muito rapidamente, este monstro é um excelente estrategista.
+441;3;Luminous Spark;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros LIGHT em 500 pontos e diminuir a sua DEF em 400 pontos.
+442;3;Luster Dragon;monster;normal;wind;dragon;4;1900;1600;0;Um dragão muito bonito coberto de safira. Ele não gosta de brigas, mas tem poder de ataque incrivelmente alto.
+443;3;Lycanthrope;monster;ritual-effect;earth;beast-warrior;6;2400;1800;0;Esta carta só pode ser (Ritual Summoned) com a carta magica de ritual (Synthesis Spell). Quando esta carta inflige dano de batalha ao oponente, inflija 200 pontos de vida de dano para o oponente por cada carta de monstro normal em seu Cemitério.
+444;3;M-Warrior #1;monster;normal;earth;warrior;3;1000;500;0;Especializando-se em ataques combinados, este guerreiro usa magnetismo para impedir a fuga dos inimigos.
+445;3;M-Warrior #2;monster;normal;earth;warrior;3;500;1000;0;Especializando-se em ataques combinados, este guerreiro é equipado com uma armadura resistente, revestido magneticamente.
+446;3;Machine Conversion Factory;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Machine equipado com esta carta em 300 pontos.
+447;3;Machine King;monster;effect;earth;machine;6;2200;2000;0;Esta carta ganha 100 de ATK para cada monstro Tipo Machine virado para cima no campo.
+448;3;Mad Dog of Darkness;monster;normal;dark;beast;4;1900;1400;0;Ele costumava ser um cão normal que brincava em torno de um parque, mas foi corrompido pelos poderes das trevas.
+449;3;Mad Lobster;monster;normal;water;water;3;1700;1000;0;A comida gourmet renomada pela crosta do Mundo das Trevas superior. Tem um sabor sensacional.
+450;3;Mad Sword Beast;monster;effect;dark;dinosaur;4;1400;1200;0;Durante uma batalha entre esta carta atacando e um monstro na Posição de Defesa cuja DEF é menor que o ATK desta carta, inflija a diferença como Dano de Batalha ao seu oponente.
+451;2;Magic Cylinder;trap;normal;FALTANDO;light;1;0;0;0;Negue o ataque de um monstro do seu oponente e inflija dano aos pontos de vida do seu oponente igual ao ataque do monstro atacante.
+452;3;Magic Jammer;trap;counter;FALTANDO;light;1;0;0;0;Descarte 1 carta da sua mão. Negue a ativação uma Spell Card do seu oponente e a destrua.
+453;3;Magical Ghost;monster;normal;dark;zombie;4;1300;1400;0;Esta criatura lança um feitiço de terror e confusão logo antes de atacar seus inimigos.
+454;3;Magician of Black Chaos;monster;ritual;dark;mago;8;2800;2600;0;Esta carta só pode ser Ritual Summon com a carta spell ritual, (Black Magic Ritual).
+455;3;Magnet Circle LV2;spell;normal;FALTANDO;light;1;0;0;0;Special Summon 1 monstro Tipo Machine de Nível 2 ou a baixo da sua mão.
+456;3;Maiden of the Moonlight;monster;normal;light;mago;4;1500;1300;0;Uma feiticeira abençoada pela luz lunar, com poderes muito além da compreensão mortal.
+457;3;Malefic Blue-Eyes White Dragon;monster;effect;dark;dragon;8;3000;2500;0;Esta carta não pode ser Normal Summon ou Set. Esta carta pode somente ser Special Summoned por remover do jogo 1 (Blue-eyes White Dragon) do seu Deck. Só pode haver 1 monstro (Malefic) virado para cima no campo. Outros monstros que você controla não podem declarar um ataque. Se não houverem Cartas Spell Fields virada para cima no campo, destrua esta carta.
+458;3;Malefic Cyber End Dragon;monster;effect;dark;machine;10;4000;2800;0;Esta carta não pode ser Normal Summon ou Set. Esta carta pode somentes er Special Summoned por remover do jogo 1 (Cyber End Dragon) do seu Extra Deck. Só pode haver 1 monstro (Malefic) virado para cima no campo. Outros monstros que você controla não podem declarar um ataque. Se não houverem Cartas Spell Fields virada para cima no campo, destrua esta carta.
+459;3;Malevolent Catastrophe;trap;normal;FALTANDO;light;1;0;0;0;Ative somente quando seu oponente declara um ataque. Destrua todas as Spell e Trap cards no campo.
+460;3;Mammoth Graveyard;monster;normal;earth;dinosaur;3;1200;800;0;Um mamute que protege os túmulos do seu cemitério e é absolutamente impiedoso contra ladrões de tumbas.
+461;3;Man Eater;monster;normal;earth;plant;2;800;600;0;Planta comedora de gente com antenas venenosas para atacar inimigos.
+462;3;Man-Eater Bug;monster;effect;earth;insect;2;450;600;0;FLIP: Destrua um monstro em campo.
+463;3;Man-Eating Treasure Chest;monster;normal;dark;demonio;4;1600;1000;0;Um monstro disfarçado de tesouro, que costuma atacar aventureiros desavisados.
+464;3;Marauding Captain;monster;effect;earth;warrior;3;1200;400;0;Seu oponente não pode selecionar outros monstros Warrior como alvo de um ataque. Quando esta carta é Invocada por Invocação Normal, você pode Invocar Especialmente 1 monstro de Nível 4 ou menor da sua mão para o seu lado do campo.
+465;3;Marie the Fallen One;monster;effect;dark;demonio;5;1700;1200;0;Enquanto esta carta existir no seu cemitério, aumente seus LP em 200 pontos em cada uma das suas Standby Phases.
+466;3;Marshmallon;monster;effect;light;fairy;3;300;500;0;O controlador de um monstro que ataca esta carta virada para baixo recebe 1000 de dano após o cálculo de dano. Essa carta não pode ser destruída por batalha. (Cálculo de dano é aplicado normalmente.)
+467;3;Masaki the Legendary Swordsman;monster;normal;earth;warrior;4;1100;1100;0;Lendário espadachim Masaki é um veterano de mais de 100 batalhas.
+468;3;Mask of Restrict;trap;continua;FALTANDO;light;1;0;0;0;Nenhum jogador pode tributar monstros.
+469;3;Masked Dragon;monster;effect;fire;dragon;3;1400;1100;0;Quando esta carta é destruída por batalha e mandada para um cemitério, você pode fazer uma Invocação especial de um monstro do tipo Dragon com o ataque 1500 ou menos de seu deck para seu lado do campo. Então embaralhe o Deck.
+470;3;Master Kyonshee;monster;normal;earth;zombie;4;1750;1000;0;Um Kyonshee vagando a procura de um rival forte para a derrota. Dizem que ele era conhecido como o mestre das artes marciais.
+471;3;Master of Oz;monster;fusion;earth;beast;9;4200;3700;0;(Big Koala) + (DesKangaroo)
+472;3;Mataza the Zapper;monster;effect;dark;warrior;3;1300;800;0;Esta carta pode ataca duas vezes durante uma mesma Battle Phase. O controle desta carta virada para cima no campo não pode ser trocado.
+473;3;Mech Mole Zombie;monster;normal;dark;zombie;2;500;400;0;Descrição indisponível.
+474;3;Mechanicalchaser;monster;normal;dark;machine;4;1850;800;0;Um caçador que persegue o seu objectivo, por ordem do rei Maquina.
+475;3;Meda Bat;monster;normal;dark;demonio;2;800;400;0;Um demônio em forma de globo ocular criado por um funcionário do mau, ele usa (Explosão das trevas) para soprar seus inimigos.
+476;3;Mega Thunderball;monster;normal;wind;thunder;2;750;600;0;Rola do solo lançando raios de eletricidade para atacar seus inimigos.
+477;3;Megasonic Eye;monster;normal;dark;machine;5;1500;1800;0;Feita de metal misterioso, esse monstro é uma máquina do Juízo Final e vive na borda do universo.
+478;3;Melchid the Four-Face Beast;monster;normal;dark;demonio;4;1500;1200;0;Esse monstro tem quatro diferentes máscaras para quatro diferentes ataques.
+479;3;Mermaid Knight;monster;effect;water;water;4;1500;700;0;Se (Umi) estiver ativa no campo, essa carta pode atacar duas vezes durante a mesma Battle Phase.
+480;3;Metal Armored Bug;monster;normal;earth;insect;8;2800;1500;0;Uma criatura inseto gigantesca coberta pela armadura de grande espessura. Tudo em seu caminho é destruído.
+481;3;Metal Dragon;monster;fusion;wind;machine;6;1850;1700;0;(Steel Ogre Grotto #1) + (Lesser Dragon)
+482;3;Metal Fish;monster;normal;water;machine;5;1600;1900;0;Um peixe de metal com uma barbatana e cauda afiada.
+483;3;Metal Guardian;monster;normal;dark;demonio;5;1150;2150;0;Um demônio que guarda os tesouros do mundo dos mortos, convive melhor no escuro.
+484;3;Meteor B. Dragon;monster;fusion;fire;dragon;8;3500;2000;0;(Red-Eyes B. Dragon) + (Meteor Dragon)
+485;3;Meteor Dragon;monster;normal;earth;dragon;6;1800;2000;0;Este dragão apareceu no céu e caiu para a terra.
+486;3;Mikazukinoyaiba;monster;normal;dark;dragon;7;2200;2350;0;Um guerreiro dragão da lua armado com uma espada que aumenta de tamanho.
+487;3;Millennium Golem;monster;normal;earth;rock;6;2000;2200;0;Por aproximadamente um milênio, este golem tem servido como guardião de um antigo tesouro.
+488;3;Millennium Shield;monster;normal;earth;warrior;5;0;3000;0;Um item do Milênio, há boatos que dizem que ele pode bloquear qualquer ataque forte.
+489;3;Mine Golem;monster;effect;earth;rock;3;1000;1900;0;Quando este card é enviado para o Cemitério como resultado de um combate, inflija 500 pontos de dano aos Life Points do seu adversário.
+490;3;Minor Goblin Official;trap;continua;FALTANDO;light;1;0;0;0;Ative somente quando o seu oponente possui 3000 ou menos LPs. Durante cada uma das Standby Phases dele, inflija 500 de dano ao seu oponente.
+491;3;Mirage Dragon;monster;effect;light;dragon;4;1600;600;0;Seu oponente não pode ativar Cartas Armadilha durante a Fase de batalha.
+492;1;Mirror Force;trap;normal;FALTANDO;light;1;0;0;0;Você pode ativar essa carta quando algum monstro do oponente declarar um ataque. Destrua todos os monstros em posição de ataque no campo do seu oponente.
+493;3;Misairuzame;monster;normal;water;fish;5;1400;1600;0;Um peixe lançador de mísseis protegido por espinhos mortais.
+494;3;Mist Valley Watcher;monster;normal;wind;mago;4;1500;1900;0;Descendente de uma família que tem servido como Névoa Vale vigias ao longo das gerações. Nunca perdeu uma única coisa que aconteceu no vale.
+495;3;Mobius the Frost Monarch;monster;effect;water;water;6;2400;1000;0;Quando esta carta é Normal Summoned, você pode destruir até 2 cartas Spell ou Trap no campo.
+496;3;Mokey Mokey;monster;normal;light;fairy;1;300;100;0;Um anjo proscrito. Ninguém sabe o que ele está pensando. às vezes, ele fica maluco e isso é terrível.
+497;3;Molten Behemoth;monster;normal;fire;fire;5;1000;2200;0;Um gigante nascido do magma, ele ataca com um soco magma.
+498;3;Molten Destruction;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros tipo FIRE em 500 pontos e diminua a sua defesa em 400 pontos.
+499;3;Monster Egg;monster;normal;earth;warrior;3;600;900;0;Um guerreiro escondido dentro de um ovo que ataca os inimigos arremessando ovos.
+500;3;Monster Reborn;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro do seu Cemitério ou do seu oponente. O monstro selecionado será baixado do seu lado do campo.
+501;3;Monster Reincarnation;spell;normal;FALTANDO;light;1;0;0;0;Descarte 1 carta, adicione 1 monstro do seu Cemitério para a sua mão.
+502;3;Montage Dragon;monster;effect;earth;dragon;8;0;0;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta não pode ser Special Summoned exceto por enviar 3 outros monstros da sua mão ao Cemitério. O ATK desta carta é igual ao Nível combinado dos monstros enviados ao Cemitério x300.
+503;3;Moon Envoy;monster;normal;light;warrior;4;1100;1000;0;Muitos foram vítimas desse guerreiro lunar crescente.
+504;3;Morinphen;monster;normal;dark;demonio;5;1550;1300;0;Uma besta estranha com longos braços e garras afiadas.
+505;3;Mother Grizzly;monster;effect;water;beast-warrior;4;1400;1000;0;Quando esta carta é destruída por batalha e enviada para o Cemitério: Você pode invocar por Invocação-Especial 1 monstro WATER com 1500 ou menos de ATK do seu Deck em Posição de Ataque virado para cima.
+506;3;Mountain;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos os Dragon, Winged Beast e Thunder em 200 pontos.
+507;3;Mr. Volcano;monster;normal;fire;fire;5;2100;1300;0;Esta criatura aparentemente branda tem um temperamento extremamente volátil.
+508;3;Mudora;monster;effect;earth;fairy;4;1500;1800;0;Esta carta ganha 200 de ATK para cada monstro Tipo Fairy no seu Cemitério.
+509;3;Muka Muka;monster;effect;earth;rock;2;600;300;0;Essa carta ganha 300 de ATK e DEF para cada carta na mão de seu controlador.
+510;3;Mystery Hand;monster;normal;dark;demonio;2;500;500;0;Descrição indisponível.
+511;3;Mystic Clown;monster;normal;dark;demonio;4;1500;1000;0;Nada pode parar o ataque furioso dessa criatura poderosa.
+512;3;Mystic Horseman;monster;normal;earth;beast;4;1300;1550;0;Metade homem e metade cavalo, este monstro é conhecido pela sua extrema velocidade.
+513;3;Mystic Lamp;monster;effect;dark;mago;1;400;300;0;Esse monstro pode atacar os pontos de seu oponente diretamente.
+514;3;Mystic Plasma Zone;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros DARK em 500 pontos e diminuir a sua DEF em 400 pontos.
+515;3;Mystic Tomato;monster;effect;dark;plant;4;1400;1100;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode Special Summon 1 monstro DARK com 1500 ou menos de ATK do seu Deck para o seu lado do campo virado para cima na Posição de Ataque.
+516;3;Mystical Elf;monster;normal;light;mago;4;800;2000;0;Uma elfa delicada com pouco poder ofensivo, mas tem possui uma defesa incrível baseada em seu poder místico.
+517;3;Mystical Moon;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Beast-Warrior equipado com esta carta em 300 pontos.
+518;3;Mystical Sheep #2;monster;normal;earth;beast;3;800;1000;0;Uma ovelha monstruosa com uma longa cauda para hipnotizar inimigos.
+519;3;Mystical Shine Ball;monster;normal;light;fairy;2;500;500;0;Uma alma de luz abrangida pelo brilho místico. Quando você vê a sua bela forma, o seu sonho se tornará realidade.
+520;3;Mystical Space Typhoon;spell;quick-play;FALTANDO;light;1;0;0;0;Destrua 1 Carta Spell ou Trap no campo.
+521;3;Mystik Wok;spell;quick-play;FALTANDO;light;1;0;0;0;Tribute 1 monstro. Selecione seu ATK + DEF(originais) e ganhe aquela quantia em LPs.
+522;3;Nekogal #1;monster;normal;earth;beast;3;1100;900;0;Uma fada gata. Contrariamente a sua beleza encantadora ela crava suas garras nos seus inimigos.
+523;3;Nekogal #2;monster;normal;earth;beast-warrior;6;1900;2000;0;Uma criatura rápida ele ataca com garras muito perigosas.
+524;3;Nemuriko;monster;normal;dark;mago;3;800;700;0;Uma criatura com face de criança que controla um demônio do sono para levar os inimigos a um sono eterno.
+525;3;Neo Aqua Madoor;monster;normal;water;mago;6;1200;3000;0;A verdadeira natureza do assistente, que governa toda a água. Defende-se com um muro impenetrável grande de gelo.
+526;3;Neo Bug;monster;normal;earth;insect;4;1800;1700;0;Um grande monstro inseto que dizem ter vindo de outro planeta. Ele se reúne em enxames.
+527;3;Neo the Magic Swordsman;monster;normal;light;mago;4;1700;1000;0;Um mago dimensional que não só pratica feitiçaria, mas também é mestre de artes marciais com a espada.
+528;3;Neo-Spacian Grand Mole;monster;effect;earth;rock;3;900;300;0;Se esta carta ataca ou é atacada por um monstro do oponente, você pode retornar ambos os monstros para as mãos de seus respectivos donos no começo do Calculo de Dano (sem cálculo de dano).
+529;3;Nimble Momonga ;monster;effect;earth;beast;2;1000;100;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você ganha 1000 LPs. Além disso, você pode Special Summon até 2 (Nimble Momonga) do seu Deck para o seu lado do campo virados para baixo na Posição de Defesa.
+530;3;Nin-Ken Dog;monster;normal;wind;beast-warrior;4;1800;1000;0;Um cachorro Ninja que dominou Ninjutsu extremos. Através de árduo treinamento, ele aprendeu a técnica para transformar-se em um ser humano.
+531;3;Niwatori;monster;normal;earth;winged-beast;3;900;800;0;Engole inimigos e toda sua essência é usada como energia.
+532;3;No Entry!!;trap;normal;FALTANDO;light;1;0;0;0;Altere todos os monstros em Modo de Ataque para Modo de Defesa.
+533;3;Novoxs Prayer;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Skull Guardian). Você também deve oferecer monstros cujo Level seja igual ou superior a 7 como um tributo apartir do campo ou da sua mão.
+534;3;Obnoxious Celtic Guard;monster;effect;earth;warrior;4;1400;1200;0;Esta carta não é destruída em batalha ao batalhar com um monstro que possua 1900 ou mais de ATK.
+535;3;Octoberser;monster;normal;water;water;5;1600;1400;0;Com a cabeça de um peixe e as pernas de um povo, esta estranha criatura ataca os inimigos atirando lanças.
+536;3;Ocubeam;monster;normal;light;fairy;5;1550;1650;0;De aparência assustadora, essa criatura usa seus grandes olhos e ouvidos para controlar qualquer movimento.
+537;3;Ojama Black;monster;normal;light;beast;2;0;1000;0;Ele é um dos Ojama Trio. É dito que ele coloca seu traseiro onde for necessário. Ele também disse que quando os três estão juntos, algo acontece.
+538;3;Ojama Green;monster;normal;light;beast;2;0;1000;0;Ele é um dos OjamaTrio. É dito que ele coloca seu traseiro onde for necessário. Ele também disse que quando os três estão juntos, algo acontece.
+539;3;Ojama Yellow;monster;normal;light;beast;2;0;1000;0;Ele é um dos OjamaTrio. É dito que ele coloca seu traseiro onde for necessário. Ele também disse que quando os três estão juntos, algo acontece.
+540;3;One-Eyed Shield Dragon;monster;normal;wind;dragon;3;700;1300;0;Este dragão usa um escudo, não só por sua própria proteção, mas também para atacar seus inimigos.
+541;3;Oni Tank T-34;monster;normal;earth;machine;4;1400;1700;0;Um tanque blindado possuído por um demônio que prosseguirá até os inimigos estarem emesmagados.
+542;3;Oppressed People;monster;normal;water;water;1;400;2000;0;Eles são oprimidos, mas acredito que eles terão algum dia a sua liberdade.
+543;3;Opticlops;monster;normal;dark;demonio;4;1800;1700;0;Um gigante de um olho que serve o (Dark Ruler Ha Des), ele espeta seus inimigos com seus chifres afiados, quebrando-os em pedaços.
+544;3;Oscillo Hero;monster;normal;earth;warrior;3;1250;700;0;Um guerreiro estranho de outra dimensão.
+545;3;Oscillo Hero #2;monster;normal;light;thunder;3;1000;500;0;Uma criatura que eletrocuta oponentes com raios de luz.
+546;3;Overdrive;monster;normal;earth;machine;4;1600;1500;0;Um veículo misto e blindado, armado com uma metralhadora pesada.
+547;3;Paladin of White Dragon;monster;ritual-effect;light;dragon;4;1900;1200;0;Você deve Ritual Summon essa carta usando a carta (White Dragon Ritual). No começo da Damage Step, se esta carta atacar um monstro face-down em defesa, destrua o monstro face-down. Você pode tributar essa carta para Special Summon 1 (Blue-Eyes White Dragon) da sua mão ou Deck, mas (Blue-Eyes White Dragon) não poderá atacar nesse turno.
+548;3;Pale Beast;monster;normal;earth;beast;4;1500;1200;0;Com a pele tingida um branco-azulada, essa estranha criatura é uma visão terrível do inferno.
+549;3;Pandaborg;monster;effect;water;psychic;4;1700;1400;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode pagar 800 LPs para Special Summon 1 monstro Psychic-Type de Nível 4 do seu Deck para o seu lado do campo.
+550;3;Parrot Dragon;monster;normal;wind;dragon;5;2000;1300;0;Um dragão de desenhos animados que é mais perigoso do que parece ser.
+551;3;Peacock;monster;normal;wind;winged-beast;5;1700;1500;0;Um pavão grande que lança suas penas em um ataque letal.
+552;3;Pendulum Machine;monster;normal;dark;machine;6;1750;2000;0;Uma horrível máquinade de tortura com uma grande lâmina balançante.
+553;3;People Running About;monster;normal;fire;fire;2;600;600;0;Apesar de sempre sofrerem em silêncio, eles fazem um voto de inevitável revolta.
+554;3;Perfect Machine King;monster;effect;earth;machine;8;2700;1500;0;Esta carta ganha 500 de ATK para cada outro monstro Tipo Machine no campo.
+555;3;Performance of Sword;monster;ritual;earth;warrior;6;1950;1850;0;Este carta só pode ser invocada por ritual com a carta Mágica de ritual, (Commencement Dance). Você também deve oferecer um monstro como tributo cujo nível seja igual ou superior a 6 do campo ou da sua mão.
+556;3;Petit Angel;monster;normal;light;fairy;3;600;900;0;Uma fada em movimento rápido e pequeno que é muito difícil de bater.
+557;3;Petit Dragon;monster;normal;wind;dragon;2;600;700;0;Um dragão muito pequeno conhecido por seus ataques ferozes.
+558;3;Petit Moth;monster;normal;earth;insect;1;300;200;0;Esta pequena criatura é mortal, melhor evita-la.
+559;3;Pharaonic Protector;monster;normal;earth;zombie;2;900;0;0;A múmia de um soldado que foi guarda da família real por milhares de anos. Mesmo agora, seu espírito não permite que ninguém a transgrida.
+560;3;Phoenix Beast Gairuda;monster;effect;wind;winged-beast;6;2500;1200;0;Se esta carta ataca um monstro do oponente, esta carta ganha 300 ATK durante a Damage Step somente.
+561;3;Polymerization;spell;normal;FALTANDO;light;1;0;0;0;Envie Monstros Material de Fusão que estão listados em uma carta de monstro de Fusão, da sua mão ou de seu lado do campo para o cemitério, e Special Summon o Monstro de Fusão.
+562;2;Pot of Avarice;spell;normal;FALTANDO;light;1;0;0;0;Selecione 5 Cartas de Monstro do seu Cemitério. Adicione eles em seu Deck e embaralhe, então compre 2 cartas do seu Deck.
+563;3;Power of Kaishin;spell;equip;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de um monstro Aqua equipado com esta carta em 300 pontos.
+564;3;Powered Tuner;monster;effect;water;water;4;1400;1000;0;Esta carta ganha 500 ATK para cada monstro Tuner colocado face-up no campo.
+565;3;Pragtical;monster;fusion;earth;dinosaur;5;1900;1500;0;(Trakodon) + (Flame Viper)
+566;3;Prevent Rat;monster;normal;earth;beast;4;500;2000;0;Esta criatura é blindado com uma carapaça dura que é excelente para se defender.
+567;3;Protector of the Throne;monster;normal;earth;warrior;4;800;1500;0;Enquanto o rei está ausente, esta rainha protege o seu trono com uma defesa forte.
+568;3;Psychic Kappa;monster;normal;water;water;2;400;1000;0;Um anfíbio com um conjunto de poderes para protege-lo dos ataques inimigos.
+569;3;Punished Eagle;monster;fusion;wind;winged-beast;6;2100;1800;0;(Blue-Winged Crown) + (Niwatori)
+570;3;Pyramid Turtle;monster;effect;earth;zombie;4;1200;1400;0;Quando este card é enviado para o Cemitério como resultado de um combate, você pode Invocar, por Invocação-Especial, 1 monstro do Tipo Zumbi com um DEF de 2000 ou meno do Deck para o Campo. Em seguida, embaralhe o Deck.
+571;3;Queen Bird;monster;normal;wind;winged-beast;5;1200;2000;0;Este monstro ataca inimigos usando seu bico enorme.
+572;3;Queen of Autumn Leaves;monster;normal;earth;plant;5;1800;1500;0;Rainha da Floresta Esmeralda, esposa do rei Espírito, vive cercado por folhas vermelhas vivas.
+573;3;Queens Knight;monster;normal;light;warrior;4;1500;1600;0;Esta cavaleira captura seus adversários desprevenidos, dominando-os com ataques rápidos e ainda graciosos.
+574;3;R-Genex Crusher;monster;effect;earth;machine;2;800;800;0;Quando esta carta é Normal Summoned, você pode adicionar 1 monstro (R-Genex) de Nível 4 do seu Deck para a sua mão.
+575;3;R-Genex Magma;monster;effect;fire;fire;3;1000;200;0;Quando esta carta é normal Summoned, você pode adicionar 1 monstro (R-Genex) de Nível 2 do seu Deck para a sua mão.
+576;3;R-Genex Turbo;monster;effect;wind;machine;4;1500;1300;0;Quando esta carta é Normal Summoned, você pode adicionar 1 monstro (Genex) de Nível 1 do seu Deck para a sua mão.
+577;3;Rabid Horseman;monster;fusion;earth;beast-warrior;6;2000;1700;0;(Battle Ox) + (Mystic Horseman)
+578;3;Rabidragon;monster;normal;light;dragon;8;2950;2900;0;Aqui à um residente em campos de neve, bolas de neve ex-mutante dragão vem com grandes, orelhas pontiagudas! Ninguém vai escapar.
+579;3;Raging Flame Sprite;monster;effect;fire;fire;3;100;200;0;Esta carta pode atacar o seu adversário diretamente. Cada vez que esta faz isso com êxito, esta carta ganha 1000 ATK.
+580;3;Rai-Mei;monster;effect;light;thunder;3;1400;1200;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode adicionar 1 monstro LIGHT de Nível 2 ou menor do seu Deck para a sua mão.
+581;1;Raigeki;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros do seu oponente no campo.
+582;3;Raimei;spell;normal;FALTANDO;light;1;0;0;0;Seu oponente perde 300 LPs.
+583;3;Rain of Mercy;spell;normal;FALTANDO;light;1;0;0;0;Ambos os jogadores ganham 1000 LPs.
+584;3;Rainbow Flower;monster;effect;earth;plant;2;400;500;0;Este Monstro pode atacar os pontos de vida do seu oponente diretamnete.
+585;3;Raise Body Heat;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Dinosaur equipado com esta carta em 300 pontos.
+586;3;Raptor Wing Strike;spell;normal;FALTANDO;light;1;0;0;0;Retorne 1 monstro Blackwing que você controla ao Deck. Adicione 1 monstro Blackwing do seu Deck para a sua mão.
+587;3;Ray & Temperature;monster;normal;light;fairy;3;1000;1000;0;O Sol e o Vento Norte juntam as mãos para entregar uma combinação devastadora do calor e ventos fortes.
+588;3;Reaper of the Cards;monster;effect;dark;demonio;5;1380;1930;0;FLIP: Selecione 1 Carta Trap no campo e a destrua. Se a carta selecionada está virada para baixo, pegue-a e veja-a. Se for uma Carta Trap, ela é destruída. Se for uma Carta Spell, retorne-a para sua posição original.
+589;3;Red Archery Girl;monster;normal;water;water;4;1400;1500;0;Uma arqueira sereia que se esconde em um escudo protetor, esperando o momento certo para atacar.
+590;3;Red Gadget;monster;effect;earth;machine;4;1300;1500;0;Quando você Normal Summon ou Special Summon esta carta, você pode adicionar 1 (Yellow Gadget) do seu Deck a sua mão.
+591;3;Red Medicine;spell;normal;FALTANDO;light;1;0;0;0;Ganhe 500 LPs.
+592;3;Red Sparrow Summoner;monster;effect;fire;mago;4;1600;1300;0;Quando esta carta é destruída em batalha contra um monstro atacante do adversário e enviada para seu Cemitério: Você pode Special Summon 1 monstro Warrior-Type com 1500 ou menos de ATK do seu Deck em Posição de ataque.
+593;3;Red-Eyes B. Chick;monster;effect;dark;dragon;1;800;500;0;Por enviar esta carta virada para cima do campo para o Cemitério, especial Summon 1 (Red-Eyes B. Dragon) da sua mão.
+594;3;Red-Eyes B. Dragon;monster;normal;dark;dragon;7;2400;2000;0;Um dragão feroz com um ataque mortal.
+595;3;Red-Eyes Darkness Metal Dragon;monster;effect;dark;dragon;10;2800;2400;0;Você pode remover do jogo 1 monstro Tipo Dragon que você controle para Special Summon esta carta. Uma vez por turno, você pode Special Summon 1 monstro Tipo Dragon exceto (Red-Eyes Darkness Metal Dragon) da sua mão ou Cemitério.
+596;3;Reinforce Truth;trap;normal;FALTANDO;light;1;0;0;0;Special Summon 1 monstro Warrior-Type de Nível 2 ou menor do seu Deck para o seu lado do campo. Você não pode conduzir a sua Battle Phase no turno em que esta carta é ativada.
+597;3;Reinforcement of the Army;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 monstro Tipo-Guerreiro de Nível 4 ou menor do seu Deck para a sua mão.
+598;3;Reinforcements;trap;normal;FALTANDO;light;1;0;0;0;Aumente o ATK de um monstro virado para cima no campo por 500 pontos até o final do turno.
+599;3;Remove Trap;spell;normal;FALTANDO;light;1;0;0;0;Selecione um Trap virada para cima no campo e à destrua.
+600;3;Renge, Gatekeeper of Dark World;monster;normal;dark;demonio;4;100;2100;0;Seu renomado físico Olímpico o tornou famoso entre a população do Dark World. Eles o chamam de (Iron Wall Renge) porque ninguém pode atravessar suas incríveis defesas.
+601;3;Rescue Rabbit;monster;effect;earth;beast;4;300;100;0;Esta carta não pode ser Special Summon do Deck. Você pode remover essa carta Virada para Cima que você controla, Special Summon 2 Monstros Normais de nível 4 ou menor com o mesmo nome do seu Deck. Destrua elas durante a sua End Phase. Você só pode usar o efeito do (Rescue Rabbit) uma vez por turno.
+602;3;Reshef the Dark Being;monster;ritual-effect;light;demonio;8;2500;1500;0;Esta carta só pode ser Ritual Summon através da Carta Mágica de Ritual (Final Ritual of the Ancients). Uma vez por rodada, descartando 1 Carta Spell da sua mão, selecione 1 monstro no lado do campo do seu oponentee ganhe o controle daquele monstro até o fim dessa rodada.
+603;3;Restructer Revolution;spell;normal;FALTANDO;light;1;0;0;0;Inflija 200 de dano no seu oponente para cada carta na mão dele.
+604;3;Resurrection of Chakra;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para o Ritual Summon (Chakra). Você deve também oferecer monstros como um Tributo cujo total de Níveis seja igual a 7 ou maior do seu campo ou da sua mão.
+605;3;Return of the Six Samurai;trap;normal;FALTANDO;light;1;0;0;0;Special Summon 1 monstro (Six Samurai) do seu Cemitério para o seu lado do campo. Destrua-o no fim deste turno.
+606;3;Reverse Trap;trap;normal;FALTANDO;light;1;0;0;0;Todos os aumentos e reduções de ATK e DEF são invertidos no turno em que esta carta é ativada.
+607;3;Revival of Dokurorider;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Dokurorider). Você também deve tributar monstros do seu campo ou mão cujo total de Níveis seja igual ou superior a 6.
+608;3;Right Arm of the Forbidden One;monster;normal;dark;mago;1;200;300;0;O Braço direito selado por magia. Todo aquele que rompe o selo recebe poder infinito.
+609;3;Right Leg of the Forbidden One;monster;normal;dark;mago;1;200;300;0;A perna direita selada por magia. Todo aquele que rompe o selo recebe poder infinito.
+610;3;Rising Air Current;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros WIND em 500 pontos e diminuir a sua DEF em 400 pontos.
+611;3;Roaring Ocean Snake;monster;fusion;water;water;6;2100;1800;0;(Mystic Lamp) + (Hyosube)
+612;3;Robbin Goblin;trap;continua;FALTANDO;light;1;0;0;0;Cada vez que 1 monstro no seu lado do campo inflige Dano de Batalha ao seu oponente, seu oponente descarta 1 carta aleatoriamente da própria mão.
+613;3;Robolady;monster;normal;earth;machine;3;450;900;0;Um guerreiro totalmente coberto com metal. Ele se fundi com (Roboyarou).
+614;3;Robotic Knight;monster;normal;fire;machine;4;1600;1800;0;O Comandante da Máquina-Types, que serve ao rei Machine. Ele é famoso pela forma como ele controla suas tropas.
+615;3;Roboyarou;monster;normal;earth;machine;3;900;450;0;Um guerreiro totalmente coberto com metal. Ele se fundi com (Robolady).
+616;3;Rock Ogre Grotto #1;monster;normal;earth;rock;3;800;1200;0;Protegido por um corpo sólido de pedra, o monstro da um soco de quebrar ossos.
+617;3;Rogue Doll;monster;normal;light;mago;4;1600;1000;0;Uma boneca mortal dotada de poderes místicos, é particularmente poderosa quando ataca contra forças obscuras.
+618;3;Root Water;monster;normal;water;fish;3;900;800;0;Um avião anfíbio capaz de provocar uma enorme onda das trevas do mar para acabar com os monstros inimigos.
+619;3;Royal Command;trap;continua;FALTANDO;light;1;0;0;0;Negue a ativação e os efeitos de todos os Flip Effect Monsters.
+620;3;Royal Decree;trap;continua;FALTANDO;light;1;0;0;0;Negue os efeitos de todas as Cartas Trap exceto essa carta.
+621;3;Ryu-Kishin;monster;normal;dark;demonio;3;1000;500;0;Uma criatura muito fugaz que se parece com uma estátua inofensiva até atacar.
+622;3;Ryu-Kishin Powered;monster;normal;dark;demonio;4;1600;1200;0;Um gargula encantado com poderes das trevas. As garras afiadas o tornam um adversário digno.
+623;3;Ryu-Ran;monster;normal;fire;dragon;7;2200;2600;0;Um pequeno dragão perverso abrigado em um ovo que parece enganosamente inofensivo.
+624;3;Saber Vault;spell;field;FALTANDO;light;1;0;0;0;Cada monstro X-Saber virado para cima no campo ganha ATK igual ao seu próprio Nível x100 e perde DEF igual ao seu próprio Nível x100.
+625;3;Sabersaurus;monster;normal;earth;dinosaur;4;1900;500;0;Este dinossauro normalmente gentil gosta de relaxar em seu ninho nas pradarias. Se irritado, despeja terrivelmente feroz.
+626;3;Saggi the Dark Clown;monster;normal;dark;mago;3;600;1500;0;Este palhaço aparece do nada e executa movimentos muito estranho para evitar os ataques inimigos.
+627;3;Sakuretsu Armor;trap;normal;FALTANDO;light;1;0;0;0;Ative apenas quando um monstro oponete declara um ataque. Destrua o monstro atacante.
+628;3;Salamandra;spell;equip;FALTANDO;light;1;0;0;0;Um monstro FIRE equipado ganha 700 de ATK.
+629;3;Sand Stone;monster;normal;earth;rock;5;1300;1600;0;Aparece do sub solo e ataca com longos tentáculos de serpente.
+630;3;Schwarzschild Limit Dragon;monster;effect;dark;dragon;8;2000;0;0;Se o seu oponente controla um monstro com 2000 ou mais ATK, você pode Special Summon esta carta (da sua mão).
+631;3;Science Soldier;monster;normal;dark;warrior;3;800;800;0;Soldados equipados com armamento de última geração para enfrentar criaturas desconhecidas.
+632;3;Sea King Dragon;monster;normal;water;sea-serpent;6;2000;1700;0;Protegido por uma casca dura, esse mestre do mar ataca seus inimigos com bolhas tóxicos.
+633;3;Sea Serpent Warrior of Darkness;monster;normal;water;sea-serpent;4;1800;1500;0;Um guerreiro que defende o mundo do oceano das trevas. Ele se orgulha de sua valentia lutando tanto no terreno e, naturalmente, na água.
+634;3;Sealmaster Meisei;monster;normal;dark;mago;3;1100;900;0;Uma das poucas pessoas que tem um bom domínio de talismãs. Sua história é um mistério.
+635;3;Secret Barrel;trap;normal;FALTANDO;light;1;0;0;0;Inflija dano no seu oponente em quantia igual ao número total de cartas no lado do campo e na mão dele x 200.
+636;3;Seiyaryu;monster;normal;light;dragon;7;2500;2300;0;Um dragão místico que queima os indignos com suas chamas místicas.
+637;3;Sengenjin;monster;normal;earth;beast-warrior;8;2750;2500;0;Um selvagem incontrolável que transporta itens do Milênio.
+638;3;Serpent Night Dragon;monster;normal;dark;dragon;7;2350;2400;0;Um dragão criado a partir da alma de um cavaleiro maligno.
+639;3;Shadow Ghoul;monster;effect;dark;zombie;5;1600;1300;0;Este monstro ganha 100 de ATK para cada monstro no seu cemitério.
+640;3;Shadow Specter;monster;effect;dark;zombie;1;500;200;0;Flip: Você pode invocar especial Shadow Specter de seu deck, esta carta ganha 500 de ataque para cada Shadow Specter no campo. Se três Shadow Specter estão no campo no início de sua BattlePhase eles podem atacar seu oponente diretamente. Se você ativar esse efeito todos os seus monstros serão destruídos na sua EndPhase.
+641;3;Shapesnatch;monster;normal;dark;machine;5;1200;1700;0;Um lagarto com o poder terrível, que ataca o oponente para controlar os outros.
+642;3;Shield Crush;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro em Modo de Defesa no campo e o destrua.
+643;3;Shiens Footsoldier;monster;effect;earth;warrior;2;700;300;0;Quanto esta carta é destruída em batalha e enviada ao Cemitério: Você pode Special Summon 1 monstro (Six Samurai) de Nível 3 ou menor do seu Deck para o seu lado do campo.
+644;3;Shiens Smoke Signal;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 monstro (Six Samurai) de level 3 ou menor do seu Deck para a sua Mão.
+645;3;Shinato, King of a Higher Plane;monster;ritual-effect;light;fairy;8;3300;3000;0;Esta carta só pode ser Ritual Summon através da carta spell ritual (Shinatos Ark). Você precisa, também, sacrificar monstros em sua mão ou no seu lado do campo cujos níveis combinados sejam 8 ou maior. Quando esta carta destrói um monstro em posição de defesa e o envia ao cemitério como resultado de uma batalha, inflija dano aos pontos de vida do oponente equivalente ao ATK original do monstro destruído.
+646;3;Shinatos Ark;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para o Ritual Summon de (Shinato, King of a Higher Plane). Você deve Tributar monstros do seu lado do campo ou da sua mão até obter um Nível total igual a 8 ou maior.
+647;3;Shining Abyss;monster;normal;light;fairy;4;1600;1800;0;Este monstro emprega os poderes da luz e da escuridão.
+648;3;Shining Angel;monster;effect;light;fairy;4;1400;800;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode Special Summon 1 monstro LIGHT com 1500 ou menos de ATK do seu Deck para o seu lado do campo virado para cima na Posição de Ataque.
+649;3;Shining Friendship;monster;normal;light;fairy;4;1300;1100;0;Um guerreiro estranho de outra dimensão.
+650;3;Silent Magician LV4;monster;effect;light;mago;4;1000;1000;0;Durante cada uma das Draw phases que seu oponente puxar uma carta, coloque um Spell Counter nessa carta (max. 5). Essa carta ganha 500 de ATK para cada Spell Counter que possua. No seu turno quando essa carta tiver 5 Spell Counters: Você pode Special Summon 1 (Silent Magician LV8) da sua Mão ou Deck, enviando essa carta para o cemitério.
+651;3;Silent Magician LV8;monster;effect;light;mago;8;3500;1000;0;Essa carta não pode ser Normal Summoned ou Set. Somente pode ser Special Summoned pelo efeito de (Silent Magician LV4). Esta carta não é afetada por efeito de Spell cards do oponente.
+652;3;Silver Bow and Arrow;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Fairy equipado com esta carta em 300 pontos.
+653;3;Silver Fang;monster;normal;earth;beast;3;1200;800;0;Um lobo da neve que é bonito para os olhos, mas absolutamente viciado em batalhas.
+654;3;Skull Dog Marron;monster;normal;earth;beast;4;1350;2000;0;Um cão perdido que se perdeu a 1000 anos atrás. Ele ainda está esperando que seu dono venha busca-lo.
+655;3;Skull Guardian;monster;ritual;light;warrior;7;2050;2500;0;Este monstro de ritual só podem ser convocados com o cartão de magia ritual, (Novoxs Prayer). Você também deve oferecer monstros cujo nível total seja igual ou superior a 7 como um tributo a partir do campo ou da sua mão.
+656;3;Skull Knight;monster;fusion;dark;mago;7;2650;2250;0;(Tainted Wisdom) + (Ancient Brain)
+657;3;Skull Mariner;monster;normal;water;warrior;4;1600;900;0;Um navio pirata que aparece da névoa e afunda qualquer outro navio.
+658;3;Skull Red Bird;monster;normal;wind;winged-beast;4;1550;1200;0;Este monstro desce rapidamente do céu e ataca com uma chuva de facas guardadas em suas asas.
+659;3;Skull Servant;monster;normal;dark;zombie;1;300;200;0;Um fantasma esquelético, que não é forte, mas pode significar problemas em grandes números.
+660;3;Sky Dragon;monster;normal;wind;dragon;6;1900;1800;0;Um dragão voador com quatro asas tão perigosas quanto laminas.
+661;3;Sleeping Lion;monster;normal;earth;beast;4;700;1700;0;Um animal feroz que dorme o dia todo. Às vezes é melhor deixa-lo dormindo, mesmo que falsamente.
+662;3;Slot Machine;monster;normal;dark;machine;7;2000;2300;0;A capacidade da máquina é dito de acordo com os resultados do sorteio.
+663;3;Snipe Hunter;monster;effect;dark;demonio;4;1500;600;0;Você pode descartar 1 carta para selecionar 1 carta no campo e rolar um dado de seis lados. Se o resultado não for 1 ou 6, destrua a carta selecionada.
+664;3;Sogen;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos Beast-Warrior e Warrior em 200 pontos.
+665;3;Soitsu;monster;normal;wind;fairy;3;0;0;0;Aparentemente totalmente inofensivo, ele imagina se possui um incrível potencial.
+666;2;Solemn Wishes;trap;continua;FALTANDO;light;1;0;0;0;Aumente seus pontos de vida em 500 toda vez que puxa uma carta (ou cartas).
+667;3;Sonic Duck;monster;normal;wind;winged-beast;3;1700;700;0;Um pato que pode andar a uma velocidade sônica. às vezes, não consegue lidar com seu ritmo incrível e perde o controle.
+668;3;Sonic Maid;monster;normal;earth;warrior;3;1200;900;0;Uma moça que usa o som em seu favor, ela empunha uma foice que é moldada como uma nota musical.
+669;3;Sorcerer of the Doomed;monster;normal;dark;mago;4;1450;1200;0;Um escravo das artes das trevas, este feiticeiro é um mestre em magias negras de morte.
+670;3;Soul Exchange;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro do lado do seu oponente do campo. Este monstro será usado como Tributo. Você não poderá continuar atacando durante o turno que você ativar esta carta.
+671;3;Soul of the Pure;spell;normal;FALTANDO;light;1;0;0;0;Ganhe 800 LPs.
+672;3;Soul Taker;spell;normal;FALTANDO;demonio;1;0;0;0;Destrua 1 monstro virado para cima que o seu oponente controle. Então o seu oponente ganham 1000 LPs.
+673;3;Soul Tiger;monster;normal;earth;beast;4;0;2100;0;A alma de um tigre que dizem demorar almas humanas. Ele é uma alma famosa que você não gostaria de encontrar em um beco escuro.
+674;3;Souleater;monster;normal;earth;fish;4;1200;0;0;Uma maravilha de vida misteriosa.
+675;3;Souls of the Forgotten;monster;normal;dark;demonio;2;900;200;0;Um espírito maligno criado pelas almas de ódio daqueles que morreram no campo de batalha. Ela cresce assimilando as almas de seus inimigos.
+676;3;Space Mambo;monster;normal;water;fish;4;1700;1000;0;Uma Mambo Space flutuando no vasto universo. Esta relíquia viva foi encontrada nas ruínas de uma super civilização em Alphard 4.
+677;3;Sparks;spell;normal;FALTANDO;light;1;0;0;0;Inflija 200 de dano no seu oponente.
+678;3;Spherous Lady;monster;normal;earth;rock;3;400;1400;0;Muitos foram enganados pela beleza deste vampiro.
+679;3;Spike Seadra;monster;normal;water;sea-serpent;5;1600;1300;0;Usando os espinhos de seu corpo, esta criatura apunhala seus adversários e os enche de electricidade.
+680;3;Spikebot;monster;normal;dark;machine;5;1800;1700;0;Um soldado mecânico criado por um feiticeiro malvado, ele ataca com as duas esferas de aço ligado a seus braços.
+681;3;Spiral Serpent;monster;normal;water;sea-serpent;8;2900;2900;0;Quando enormes redemoinhos deixam cidades em ruínas, é trabalho da fome desta serpente do mar. Ninguém jamais escapou de sua temida Onda Espiral para precisamente descrever o terror que experimentaram.
+682;3;Spirit of the Books;monster;normal;wind;winged-beast;4;1400;1200;0;Este sábio habita o espírito dos livros, utilizando o seu conhecimento acumulado para derrotar os inimigos.
+683;3;Spirit of the Harp;monster;normal;light;fairy;4;800;2000;0;Um espírito que acalma a alma com a música de sua harpa celestial.
+684;3;Spirit Reaper;monster;effect;dark;zombie;3;300;200;0;Esta carta não pode ser destruída em batalha. Quando esta carta inflige Dano de Batalha ao seu oponente devido a um ataque direto, descarte aleatoriamente 1 carta da mão do seu oponente.
+685;3;St. Joan;monster;fusion;light;fairy;7;2800;2000;0;(The Forgiving Maiden) + (Marie the Fallen One)
+686;3;Steamroid;monster;effect;earth;machine;4;1800;1800;0;Se esta carta ataca um monstro do oponente, esta carta ganha 500 pontos de ATK durante o cálculo de dano somente. Se esta carta é atacada por um monstro do oponente, esta carta perde 500 pontos de ATK somente durante o cálculo de dano.
+687;3;Steel Ogre Grotto #1;monster;normal;earth;machine;5;1400;1800;0;Um ídolo de aço adorado na Terra das máquinas.
+688;3;Steel Ogre Grotto #2;monster;normal;earth;machine;6;1900;2200;0;Um boneco de ferro mecanizado com tremenda força.
+689;3;Stone Dragon;monster;normal;earth;rock;7;2000;2300;0;Um dragão formado por pedras enormes que também são usados para atacar o inimigo.
+690;3;Stone Ogre Grotto;monster;normal;earth;rock;5;1600;1500;0;Um gigante em forma de pedras gigantes.
+691;3;Stop Defense;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro em Modo de Defesa que o seu oponente controle e o altere para Modo de Ataque.
+692;3;Stuffed Animal;monster;normal;earth;warrior;3;1200;900;0;Pode parecer um inofensivo animal de pelúcia, mas seu zíper é uma boca de uma mordida mortal.
+693;3;Succubus Knight;monster;normal;dark;warrior;5;1650;1300;0;Uma indigna maga perita em mágicas letais.
+694;3;Summoned Skull;monster;normal;dark;demonio;6;2500;1200;0;Um demônio com poderes das trevas que confundem o inimigo. Entre os monstros Fiend, este monstro possui uma força considerável.
+695;3;Summoners Art;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 Normal Monster de Nível 5 ou maior do seu Deck e adicione a sua mão.
+696;3;Super Conductor Tyranno;monster;effect;light;dinosaur;8;3300;1400;0;Uma vez por turno você pode tributar um monstro: Inflija 1000 de Dano ao seu oponente. Essa carta não poderá atacar no turno que ativar esse efeito.
+697;3;Super War-Lion;monster;ritual;earth;beast;7;2300;2100;0;Este monstro de ritual só pode ser invocado com a carta de mágica de ritual, (War-Lion Ritual).
+698;3;Swamp Battleguard;monster;effect;earth;warrior;5;1800;1500;0;Este monstro ganha 500 de ATK para cada (Lava Battleguard) que você controle.
+699;3;Swift Gaia the Fierce Knight;monster;effect;dark;warrior;7;2300;2100;0;Se esta é a única carta na sua mão, você a pode Summon virada para cima em Modo de Ataque sem Tributar monstros. Isso é tratado como uma Normal Summon.
+700;3;Sword of Dark Destruction;spell;equip;FALTANDO;light;1;0;0;0;Um monstro DARK equipado com esta carta aumenta seu ATK em 400 pontos e diminui a sua DEF em 200 pontos.
+701;2;Swords of Concealing Light;spell;continua;FALTANDO;light;1;0;0;0;Quando você ativar esta carta, troque todos os monstros do lado do campo de seu oponente para virados para baixo em Modo de Defesa. Enquanto essa carta permanecer virada para cima no campo, monstros do lado do campo de seu oponente não podem mudar seus Modos de Batalha. Destrua essa carta durante sua 2° Standby Phase após sua ativação.
+702;1;Swords of Revealing Light;spell;normal;FALTANDO;light;1;0;0;0;Quando esta carta é ativada, altere todos os monstros do seu oponente que estão virados para baixo para virados para cima. Enquanto esta carta estiver virada para cima, monstros que o seu oponente controla não podem declarar um ataque. Esta carta permanecer virada para cima no campo até o fim do 3° turno do seu oponente após a ativação.
+703;3;Swordsman of Landstar;monster;normal;earth;warrior;3;500;1200;0;Um amador com uma espada, esse guerreiro fada confia em seus misteriosos poderes.
+704;3;Swordstalker;monster;normal;dark;warrior;6;2000;1600;0;Um monstro formado pelas almas vingativas daqueles que morreram em batalha.
+705;3;Synthesis Spell;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Lycanthrope). Você também deve monstros tributo cujo Nível total igual ou superior a 6 a partir do seu campo ou mão.
+706;3;Tainted Wisdom;monster;effect;dark;demonio;3;1250;800;0;Quando essa carta for passada de Ataque para Defesa, embaralhe seu Deck.
+707;3;Takriminos;monster;normal;water;sea-serpent;4;1500;1200;0;Um membro de uma raça de serpentes do mar que viaja livremente através do mar.
+708;3;Takuhee;monster;normal;wind;winged-beast;4;1450;1000;0;Esta ave é conhecida em toda parte como um prenúncio de desgraça.
+709;3;Terra the Terrible;monster;normal;dark;demonio;4;1200;1300;0;Conhecido como morador de um Pântano, esta criatura é um lacaio das forças das trevas.
+710;3;Terraforming;spell;normal;FALTANDO;light;1;0;0;0;Adicione 1 Carta Spell Field do seu Deck à sua mão.
+711;3;Terratiger, the Empowered Warrior;monster;effect;earth;warrior;4;1800;1200;0;Quando esta carta é Normal Summoned: Você pode Special Summon 1 Monstro Normal de Nível 4 ou menor da sua mão para a posição de defesa.
+712;3;Terrorking Salmon;monster;normal;water;fish;5;2400;1000;0;Um salmão temido, capitão do Oceano das trevas. Sua ova é a melhor iguaria no mundo das Trevas.
+713;3;The 13th Grave;monster;normal;dark;zombie;3;1200;900;0;Um zumbi que apareceu de repente do lote n13 um túmulo vazio.
+714;3;The All-Seeing White Tiger;monster;normal;wind;beast;3;1300;500;0;Um governante orgulhoso da selva que alguns temem e outros respeitam.
+715;3;The Dark Creator;monster;effect;dark;thunder;8;2300;3000;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta somente pode ser Special Summoned, havendo 5 ou mais monstros DARK no seu Cemitério enquanto você não controla monstros no campo. Uma vez por turno, você pode remover do jogo 1 monstro DARK do seu Cemitério para Special Summon 1 monstro DARK do seu Cemitério.
+716;3;The Dragon Dwelling in the cave;monster;normal;wind;dragon;4;1300;2000;0;Um dragão de fogo enorme em uma caverna. É horrível quando fica com raiva, embora seja geralmente calmo. Diz-se que está certamente protegendo tesouros.
+717;3;The Earl of Demise;monster;normal;dark;demonio;5;2000;700;0;Esta criatura é um cavalheiro extremamente perverso, temido pelos homens e demônios.
+718;3;The Furious Sea King;monster;normal;water;water;3;800;700;0;Grand King of the Seven Seas, ele é capaz de convocar maremotos e afogar os inimigos.
+719;3;The Gross Ghost of Fled Dreams;monster;normal;dark;demonio;4;1300;1800;0;Este monstro alimenta-se de sonhos, arrastando a vítima a um sono eterno.
+720;3;The Illusory Gentleman;monster;normal;dark;mago;4;1500;1600;0;Vestindo a moda impar, este senhor é muito inconstante. Ele às vezes salva as pessoas e em outras vezes comete crimes.
+721;3;The Judgement Hand;monster;normal;earth;warrior;3;1400;700;0;Uma mão todo-poderosa que proporciona ataques implacáveis.
+722;3;The Masked Beast;monster;ritual;dark;demonio;8;3200;1800;0;Este monstro de ritual só pode ser Ritual Summon com a carta spell ritual, (Curse of the Masked Beast).
+723;2;The Paths of Destiny;trap;normal;FALTANDO;light;1;0;0;0;Ambos os jogadores jogam uma moeda uma vez. Se o resultado de um jogador é Cara, ele ganha 2000 LPs, e se seu resultado é Coroa, ele recebe 2000 de dano.
+724;3;The Portraits Secret;monster;normal;earth;demonio;4;1200;1500;0;Um retrato amaldiçoado pelo artista, foi feito para trazer má sorte para quem o possui.
+725;3;The Six Samurai - Irou;monster;effect;dark;warrior;4;1700;1200;0;Enquanto você controla outro monstro (Six Samurai) com um nome diferente, se esta carta ataca um monstro com face pra baixo em posição de Defesa, destrua o monstro imediatamente com o efeito desta carta sem virá-la para cima ou aplicar o Cálculo de Dano.
+726;3;The Six Samurai - Kamon;monster;effect;fire;warrior;3;1500;1000;0;Uma vez por turno, enquanto você controla outro monstro (Six Samurai) com um nome diferente, você pode destruir 1 Spell ou Trap Card virada pra cima. Este monstro não pode declarar um ataque durante o turno que este efeito for usado.
+727;3;The Six Samurai - Nisashi;monster;effect;wind;warrior;4;1400;700;0;Enquanto você controla outro monstro (Six Samurai) com um nome diferente, esta carta pode atacar duas vezes durante a mesma Battle Phase.
+728;3;The Six Samurai - Yaichi;monster;effect;water;warrior;3;1300;800;0;Uma vez por turno, se você controla outro monstro (Six Samurai) com um nome diferente, você pode destruir uma Spell ou Trap Card virado pra baixo. Este monstro não pode declarar um ataque no turno que este efeito é utilizado.
+729;3;The Six Samurai - Yariza;monster;effect;earth;warrior;3;1000;500;0;Enquanto você controla outro monstro (Six Samurai) com um nome diferente, esta carta pode atacar seu oponente diretamente.
+730;3;The Six Samurai - Zanji;monster;effect;light;warrior;4;1800;1300;0;Enquanto você controla outro monstro (Six Samurai) com um nome diferente, destrua qualquer monstro que esta carta ataca no fim da Damage Step. Se esta carta for destruída quando você estiver atacando, você pode destruir outro monstro Six Samurai que você controla em vez disso.
+731;3;The Spell Absorbing Life;trap;normal;FALTANDO;FALTANDO;1;0;0;0;Vire para cima todas as Cartas de Monstro virados para baixo. Efeitos Flip não são ativados nesse momento. Ganhe 400 LPs para cada Carta de Monstro de Efeito no campo.
+732;3;The Statue of Easter Island;monster;normal;earth;rock;4;1100;1400;0;Um monumento de pedra da Ilha de Páscoa, que lança rajadas laser de seus lábios na rocha.
+733;3;The Stern Mystic;monster;effect;light;mago;4;1500;1200;0;FLIP: Todas as cartas viradas para baixo no campo são virados para cima por um curto período de tempo, e depois voltou para sua posição original. As cartas viradas para cima não serão afetadas.
+734;3;The Tricky;monster;effect;wind;mago;5;2000;1200;0;Você pode descartar 1 carta para Special Summon esta carta da mão.
+735;3;The Warrior Returning Alive;spell;normal;FALTANDO;light;1;0;0;0;Selecione 1 monstro Warrior-Type do seu cemitério e adicione-o para a sua mão.
+736;3;The Wicked Worm Beast;monster;effect;earth;beast;3;1400;700;0;Esta carta de face para cima no campo retorna para a mão do dono no fim do seu turno.
+737;3;Thestalos the Firestorm Monarch;monster;effect;fire;fire;6;2400;1000;0;Quanda esta carta é Normal Summoned, descarte 1 carta aleatóriamente da mão do seu oponente. Se era uma Carta de Monstro, inflija dano no seu oponente em quantia igual ao Nível dela x 100.
+738;3;Thousand Dragon;monster;fusion;wind;dragon;7;2400;2000;0;(Time Wizard) + (Baby Dragon)
+739;3;Thousand-Eyes Idol;monster;normal;dark;mago;1;0;0;0;A entidade que controla os corações dos homens, seus mil olhos são capazes de ver e expandir as influências negativas na alma de um indivíduo.
+740;3;Three-Headed Geedo;monster;normal;dark;demonio;4;1200;1400;0;Um monstro noturno de três cabeças que é absolutamente implacável quando luta.
+741;3;Three-Legged Zombies;monster;normal;dark;zombie;3;1100;800;0;Um par de esqueletos amigáveis, um magro e um gordo, que viajam com extrema dificuldade.
+742;3;Thunder Dragon;monster;effect;light;thunder;5;1600;1500;0;Você pode descartar esta carta para adicionar até 2 (Thunder Dragon) do seu Deck para a sua mão.
+743;3;Tiger Axe;monster;normal;earth;beast-warrior;4;1300;1100;0;Um rápido e poderoso guerreiro empunhando um machado gigante.
+744;2;Time Wizard;monster;effect;light;mago;2;500;400;0;Uma vez por turno, jogue uma moeda e peça Cara ou Coroa. Se você acertou, destrua todos os monstros que o seu oponente controla. Se você errou, destrua todos os monstros que você controla, e perca LPs em quantia igual a metade do total de ATK dos monstros destruídos.
+745;3;Tin Goldfish;monster;effect;water;machine;4;800;2000;0;Quando esta carta é Normal Summoned: Você pode Special Summon 1 Nível 4 monstro da sua mão.
+746;3;Tomozaurus;monster;normal;earth;dinosaur;2;500;400;0;Descrição indisponível.
+747;3;Tongyo;monster;normal;water;fish;4;1350;800;0;Este monstro de captura outros peixes com a sua longa língua e suga a energia deles.
+748;3;Trade In;spell;normal;FALTANDO;light;1;0;0;0;Descarte 1 monstro Nível 8, compre 2 cartas.
+749;3;Trakodon;monster;normal;earth;dinosaur;3;1300;800;0;Um dragão tigre que muitas vezes é visto atravessando o deserto a uma velocidade tremenda.
+750;3;Trance The Magic Swordsman;monster;normal;earth;mago;6;2600;200;0;Um ex-mendigo dimensional que não só prática feitiçaria, mas obteve a verdadeira força de poder considerável.
+751;3;Trap Hole;trap;normal;FALTANDO;light;1;0;0;0;Quando seu oponente revelar um monstro comum ATK de 1000 pontos ou mais, destrua o monstro.
+752;3;Trap Master;monster;effect;earth;warrior;3;500;1100;0;FLIP: Selecione uma Trap no campo e destrua-o. Se for uma Trap, ela é destruída. Se for uma Spell, devolva á sua posição original.
+753;3;Tremendous Fire;spell;normal;FALTANDO;light;1;0;0;0;Inflija 1000 de dano no seu oponente e receba 500 de dano.
+754;3;Trent;monster;normal;earth;plant;5;1500;1800;0;A guardiã da floresta, acredita-se que esta árvore maciça é imortal.
+755;3;Tri-Horned Dragon;monster;normal;dark;dragon;8;2850;2350;0;Um dragão indignado com três chifres afiados brotando de sua cabeça.
+756;3;Trial of Nightmare;monster;normal;dark;demonio;4;1300;900;0;Este demônio julga inimigos que estão presos em caixões.
+757;3;Trident Warrior;monster;effect;light;warrior;4;1800;1200;0;Quando esta carta é Normal Summoned, você pode Special Summon 1 monstro de Nível 3 da sua mão para o seu lado do campo.
+758;3;Tripwire Beast;monster;normal;earth;thunder;4;1200;1300;0;Esta criatura ataca com ondas eletromagnéticas.
+759;3;Turtle Bird;monster;normal;water;water;6;1900;1700;0;Uma tartaruga nada comum que não apenas voa através dos céus mas em velocidades tremendas.
+760;3;Turtle Oath;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para o Ritual Summon de (Crab Turtle). Você também deve oferecer monstros cujo Nível total de Estrelas seja igual a 8 ou mais do campo ou da sua mão como um Tributo.
+761;3;Turtle Tiger;monster;normal;water;water;4;1000;1500;0;Um tigre envolto por uma cápsula protetora que ataca com garras afiadas.
+762;3;Turu-Purun;monster;normal;water;water;2;450;500;0;Um monstro estranho, um olho que pode derrubar um inimigo com um golpe único de sua lança.
+763;3;Twin Long Rods #2;monster;normal;water;water;3;850;700;0;Uma criatura anfíbia com duas caudas usadas como chicote.
+764;3;Twin-Headed Fire Dragon;monster;normal;fire;fire;6;2200;1700;0;Dois dragões fundido como um dos efeitos do Big Bang.
+765;3;Twin-Headed Thunder Dragon;monster;fusion;light;thunder;7;2800;2100;0;(Thunder Dragon) + (Thunder Dragon)
+766;3;Twinheaded Beast;monster;effect;fire;beast;6;1700;1900;0;Esta carta pode atacar duas vezes durante amesma Battle Phase.
+767;3;Two-Headed King Rex;monster;normal;earth;dinosaur;4;1600;1200;0;Um monstro poderoso, cujas duas cabeças são usadas nos seus ataque.
+768;3;Two-Mouth Darkruler;monster;normal;earth;dinosaur;3;900;700;0;Um dinossauro com duas mandíbulas mortais, ele reúne eletricidade em seu chifre e desfere raios de alta voltagem pela boca em suas costas.
+769;3;Tyhone;monster;normal;wind;winged-beast;4;1200;1400;0;Capaz de disparar balas de canhão da sua boca para ataques de longa distância, esta criatura é particularmente eficiente em batalhas montanha.
+770;3;Tyhone #2;monster;normal;fire;dragon;6;1700;1900;0;Um dragão que cospe bolas de fogo, criando um mar em chamas de fogo.
+771;3;Umi;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos Fish, Sea Serpent, Thunder e Aqua em 200 pontos. Diminua o ATK e DEF de todos os Machine e Fire em 200 pontos.
+772;3;Umiiruka;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK de todos os monstros WATER em 500 pontos e diminua a sua DEF em 400 pontos.
+773;3;United Resistance;monster;normal;wind;thunder;3;1000;400;0;As pessoas que se reúnem para juntos combater os seus opressores. Uma revolução está chegando.
+774;3;Upstart Goblin;spell;normal;FALTANDO;light;1;0;0;0;Compre 1 carta. O seu oponente ganha 1000 LPs.
+775;3;Uraby;monster;normal;earth;dinosaur;4;1500;800;0;Rápido com seus pés, este dinossauro rasga os inimigos em pedaços com suas garras afiadas.
+776;3;Ushi Oni;monster;normal;dark;demonio;6;2150;1950;0;Um touro ressucitado com Artes das Trevas, esse monstro aparece fora de um frasco.
+777;3;V-Tiger Jet;monster;normal;light;machine;4;1600;1800;0;Esta caça é imbatível em um duelo. Combina com outros monstros para lançar uma série de ataques envolventes.
+778;3;Venom Cobra;monster;normal;earth;reptile;4;100;2000;0;Grossas escamas cobrem todas as partes desta cobra gigantesca. Ela caça, atirando grandes quantidades de veneno, mas por causa de seu grande tamanho, o seu padrão de ataque é facilmente previsto.
+779;3;Verz Heliotrope;monster;normal;dark;rock;4;1950;650;0;Um poderoso guerreiro, que utiliza as trevas em seus ataque.
+780;3;Vice Dragon;monster;effect;dark;dragon;5;2000;2400;0;Se o seu oponente controla um ou mais monstros e você não controla nenhum, você pode Special Summon esta carta da sua mão para o seu lado do campo. Se o fizer, o ATK e DEF originais desta carta são reduzidos pela metade.
+781;3;Victoria;monster;effect;light;fairy;4;1800;1500;0;Uma vez por turno, você pode selecionar e Special Summon 1 monstro Tipo Dragon do Cemitério do seu oponente para o seu lado do campo.
+782;3;Vile Germs;spell;equip;FALTANDO;light;1;0;0;0;Aumenta o ATK e DEF de um monstro Plant equipado com esta carta em 300 pontos.
+783;3;Violent Rain;monster;normal;water;water;4;1550;800;0;Este monstro pode incovar torrentes de chuva subtamente.
+784;3;Violet Crystal;spell;equip;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de um monstro Zombie equipado com esta carta em 300 pontos.
+785;3;Violet Witch;monster;effect;dark;mago;4;1100;1200;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, adicione 1 monstro Plant-Type com 1500 ou menos de DEF do seu Deck para a sua mão.
+786;3;Vorse Raider;monster;normal;dark;beast-warrior;4;1900;1200;0;Esse terrível Beast Warrior faz cada coisa horrível que se possa imaginar e adora! Seu machado carrega as marcas de suas incontáveis vítimas.
+787;3;Waboku;trap;normal;FALTANDO;light;1;0;0;0;Você não receba Dano de Batalha neste turno. Seus monstros não podem ser destruídos como resultado de batalha neste turno.
+788;3;Wall of Illusion;monster;effect;dark;demonio;4;1000;1850;0;Um monstro que ataca este monstro retorna para a mão de seu dono após o cálculo de danos. O cálculo de dano é aplicado normalmente.
+789;3;War-Lion Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é usada para Ritual Summon (Super War-Lion). Você também deve oferecer um monstro do campo ou da sua mão cujo nível é igual ou superior a 7.
+790;3;Warrior Dai Grepher;monster;normal;earth;warrior;4;1700;1600;0;O guerreiro que pode manipular dragões. Ninguém sabe de seu passado misterioso.
+791;3;Warrior Elimination;spell;normal;FALTANDO;light;1;0;0;0;Destrua todos os monstros Tipo Warrior virados para cima no campo.
+792;3;Warrior Lady of the Wasteland;monster;effect;earth;warrior;4;1100;1200;0;Quando esta carta é destruída por batalha e enviada ao Cemitério: Você pode Special Summon 1 EARTH monstro Warrior-Type com 1500 ou menos de ATK do seu Deck, em posição de ataque de face para cima.
+793;3;Warrior of Tradition;monster;fusion;earth;warrior;6;1900;1700;0;(Sonic Maid) + (Beautiful Headhuntress)
+794;3;Warrior of zera;monster;normal;earth;warrior;4;1600;1600;0;Um guerreiro errante que procura o santuário onde ele pode ganhar o poder do Archlords. Para escapar à tentação dos demônios do mal, ele luta em solo a cada dia.
+795;3;Wasteland;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos os Dinosaur, Zombie e Rock em 200 pontos.
+796;3;Water Magician;monster;normal;water;water;4;1400;1000;0;Este monstro afoga um adversário com uma fonte quase inesgotável de água.
+797;3;Water Omotics;monster;normal;water;water;4;1400;1200;0;Transforma a água que transborda de uma jarra para atacar dragões.
+798;3;Wave-Motion Cannon;spell;continua;FALTANDO;light;1;0;0;0;Envie esta carta no Campo para o cemitério durante a sua Main Phase. Inflija dano aos pontos de vida do seu adversário igual ao número de Standby Phases seus que passaram depois da ativação deste card x1000 pontos.
+799;3;Weather Control;monster;normal;light;fairy;2;600;400;0;Descrição indisponível.
+800;3;Whiptail Crow;monster;normal;dark;demonio;4;1650;1600;0;Ataca a partir do céu usando a cauda como um chicote.
+801;3;White Dragon Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para o Ritual Summon de (Paladin of White Dragon). Você deve Tributar monstros do seu lado do campo e/ou da sua mão até obter um Nível total igual a 4 ou maior.
+802;3;White Magical Hat;monster;effect;light;mago;3;1000;700;0;Quando essa carta inflige danos de batalha ao seu oponente. Ele deve descartar uma carta aleatória da mão.
+803;3;White Tiger Summoner;monster;effect;earth;mago;3;1000;1700;0;Quando esta carta é Normal Summoned: Você pode Special Summon 1 Monstro Normal de Nível 4 ou menor da sua mão. Todos os monstros que você controla ganham 100 ATK e DEF.
+804;3;White-Horned Dragon;monster;effect;dark;dragon;6;2200;1400;0;Quando esta carta é Normal Summoned ou Special Summoned, selecione até 5 Cartas Spell no Cemitério do seu oponente e as remova do jogo. Essa carta ganha 300 de ATK para cada carta removida do jogo pelo seu efeito.
+805;3;Winged Dragon, Guardian of the Fortress #1;monster;normal;wind;dragon;4;1400;1200;0;Um dragão encontrado geralmente guardando as fortalezas da montanha. Seu ataque característico é um mergulho rasante partindo do céu.
+806;3;Winged Dragon, Guardian of the Fortress #2;monster;normal;wind;winged-beast;4;1200;1000;0;Um monstro cujas asas são capazes de gerar tornados.
+807;3;Winged Kuriboh;monster;effect;light;fairy;1;300;200;0;Após esta carta no campo ser destruída e enviada para o Cemitério, qualquer Dano de Batalha que o controlador dessa carta recebe nesse turno se torna 0.
+808;3;Wingweaver;monster;normal;light;fairy;7;2750;2400;0;Uma fada de seis asas, que reza pela paz e esperança.
+809;3;Witty Phantom;monster;normal;dark;demonio;4;1400;1300;0;Vestida com um smoking escuro, esta criatura domina a escuridão.
+810;3;Wodan the Resident of the Forest;monster;effect;earth;warrior;3;900;1200;0;Esta carta ganha 100 de ATK para cada monstro Tipo Plant virado para cima no campo.
+811;3;Wolf Axwielder;monster;normal;earth;beast-warrior;4;1650;1000;0;Depois que ele começa a batalha, este monstro ataca ferozmente e não pode parar.
+812;3;Woodborg Inpachi;monster;normal;fire;machine;5;500;2500;0;A nova forma do Inpachi enigmático, remodelado pela tecnologia de ponta do Mundo das Trevas. A manobrabilidade foi sacrificada para a armadura forte, que foi considerado mais importante.
+813;3;Worm Drake;monster;normal;earth;reptile;4;1400;1500;0;Depois que este monstro se envolve em torno de uma vítima, não há escapatória.
+814;3;Wow Warrior;monster;normal;water;fish;4;1250;900;0;Um peixe com braços, pernas e alguns dentes muito afiados.
+815;3;Wretched Ghost of The Attic;monster;normal;dark;demonio;2;550;400;0;Um monstro inofensivo encontrado escondido em praticamente qualquer sótão.
+816;3;X-Head Cannon;monster;normal;light;machine;4;1800;1500;0;Um monstro com um barril canhão poderoso, é capaz de integrar seus ataques. Ele ataca de várias maneiras, combinando e separando com outros monstros.
+817;3;X-Saber Anu Piranha;monster;normal;earth;warrior;4;1800;1100;0;Uma guerreira X-Saber, conhecida por seus graciosos ataques e calma tomada de decisões em batalha. Sua ambição é empiedosa, e espalha terror no coração de seus inimigos.
+818;3;XX-Saber Boggart Knight;monster;effect;earth;beast-warrior;4;1900;1000;0;Quando esta carta é Normal Summoned, você pode Special Summon 1 monstro (X-Saber) de Nível 4 ou menor da sua mão para o seu lado do campo. Esta carta somente pode ser usada como Monstro Material de Sincronização para o Synchro Summon de um monstro (X-Saber).
+819;3;XX-Saber Emmersblade;monster;effect;earth;insect;3;1300;800;0;Quando esta carta é destruída em batalha e enviada ao Cemitério, você pode Special Summon 1 monstro (X-Saber) de Nível 4 ou menor do seu Deck para o seu lado do campo.
+820;3;XX-Saber Faultroll;monster;effect;earth;warrior;6;2400;1800;0;Esta carta não pode ser Normal Summoned ou Set. Esta carta não pode ser Special Summoned, exceto se você controla 2 ou mais monstros (X-Saber). Uma vez por turno, você pode Special Summon 1 monstro (X-Saber) de Nível 4 ou menor do seu Cemitério para o seu lado do campo.
+821;3;XX-Saber Gardestrike;monster;effect;earth;beast-warrior;5;2100;1400;0;Se você não controla monstros e existem 2 ou mais monstros (X-Saber) no seu Cemitério, você pode Special Summon nesta carta da sua mão para o seu lado do campo.
+822;3;XX-Saber Ragigura;monster;effect;earth;beast-warrior;1;200;1000;0;Quando esta carta é Normal ou Special Summoned, você pode adicionar 1 monstro (X-Saber) do seu Cemitério para a sua mão.
+823;3;Yamadron;monster;normal;fire;dragon;5;1600;1800;0;Esse monstro tem três cabeças que cospem fogo e podem formar um marde chamas ardentes.
+824;3;Yami;spell;field;FALTANDO;light;1;0;0;0;Aumente o ATK e DEF de todos monstros Fiend Spell caster em 200 pontos. Diminua o ATK e DEF de todos os monstros Fairy em 200 pontos.
+825;3;Yaranzo;monster;normal;dark;zombie;4;1300;1500;0;Uma caixa do tesouro que contem um monstro que ataca qualquer bandido novato.
+826;3;Yellow Gadget;monster;effect;earth;machine;4;1200;1200;0;Quando você Normal Summon ou Special Summon esta carta, você pode adicionar 1 (Green Gadget) do seu Deck à sua mão.
+827;3;Zaborg the Thunder Monarch;monster;effect;light;thunder;5;2400;1000;0;Quando esta carta é Normal Summoned, destrua 1 monstro no campo.
+828;3;Zera Ritual;spell;ritual;FALTANDO;light;1;0;0;0;Esta carta é utilizada para o Ritual Summonde (Zera The Mant). Você deve Tributar monstros do seu lado do campo ou da sua mão até obter um Nível total igual a 8 ou maior.
+829;3;Zera the Mant;monster;ritual;dark;demonio;8;2800;2300;0;Esta carta só pode ser Ritual Summon com a carta spell ritual, (Zera Ritual).
+830;3;Zoa;monster;normal;dark;demonio;7;2600;1900;0;Um monstro cujo pleno potencial pode ser alcançado quando equipado com o (Metalmorph).
+831;3;Zone Eater;monster;effect;water;water;1;250;200;0;Um monstro atacado por esta carta será destruído durante a End Phase do 5° turno após o ataque.
+832;3;Zure, Knight of Dark World;monster;normal;dark;demonio;4;1800;1500;0;O nome deste ilustre cavaleiro é conhecido por todos os residentes do Mundo das Trevas. Ele nunca oprime os plebeus.
+833;1;Obelisk the Tormentor;monster;effect;divine;beast;10;4000;4000;0;Requer 3 Tributos para ser Invocado por Invocação-Normal (não pode ser Baixado Normalmente). A Invocação-Normal deste card não pode ser negada. Quando Invocado por Invocação-Normal, cards e efeitos não podem ser ativados. Não pode ser alvo de Magias, Armadilhas ou efeitos de card. Durante a Fase Final, se este card foi Invocado por Invocação-Especial: envie-o para o Cemitério. Você pode oferecer 2 monstros como Tributo. destrua todos os monstros que seu oponente controla. Este card não pode declarar um ataque no turno em que este efeito for ativado.
+834;1;The Winged Dragon of Ra;monster;effect;divine;beast;10;0;0;0;Não pode ser Invocado por Invocação-Especial. Requer 3 Tributos para ser Invocado por Invocação-Normal (não pode ser Baixado Normalmente). A Invocação-Normal deste card não pode ser negada. Quando Invocado por Invocação-Normal, outros cards a efeitos não podem ser ativados. Quando este card for Invocado por Invocação-Normal: você pode pagar Pontos de Vida até ter apenas 100 restantes. este card ganha ATK e DEF igual ao valor de Pontos de Vida pagos. Você pode pagar 1000 Pontos de Vida e, depois, escolher 1 monstro no campo. destrua o alvo.
+835;1;Slifer the Sky Dragon;monster;effect;divine;beast;10;0;0;0;Requer 3 Tributos para ser Invocado por Invocação-Normal (não pode ser Baixado Normalmente). A Invocação-Normal deste card não pode ser negada. Quando Invocado por Invocação-Normal, cards e efeitos não podem ser ativados. Durante a Fase Final, se este card foi Invocado por Invocação-Especial: envie-o para o Cemitério. Este card ganha 1000 de ATK e DEF para cada card em sua mão. Quando um ou mais monstros forem Invocados por Invocação-Normal ou Especial no lado do campo do seu oponente com a face para cima em Posição de Ataque: esses monstros perdem 2000 de ATK e, depois, se qualquer um deles tiver o ATK reduzido a 0 como resultado deste efeito, destrua-o.

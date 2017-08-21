@@ -1,0 +1,16 @@
+body {
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#BNTdeslogar {
+	color: white;
+	font-size: 30px;
+	position: relative;
+}
+
+#user_data_nxp {
+	color: white;
+	float: left;
+}

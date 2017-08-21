@@ -1,0 +1,3 @@
+invocação;especial
+invocado_em;1
+atacou_em;9

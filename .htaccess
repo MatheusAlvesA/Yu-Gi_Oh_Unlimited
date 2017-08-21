@@ -1,0 +1,27 @@
+ErrorDocument 500 /404.php
+ErrorDocument 404 /404.php
+ErrorDocument 403 /404.php
+ErrorDocument 401 /404.php
+ErrorDocument 404 /404.php
+
+# Apaga essa linha aqui nao maluco
+RewriteBase /
+
+
+
+
+
+# remova isso tbm nao que e pra nao acessarem os txt do servidor
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^http://localhost/.*$      [NC]
+
+RewriteCond %{HTTP_REFERER} !^http://localhost$      [NC]
+
+RewriteCond %{HTTP_REFERER} !^http://www.localhost/.*$      [NC]
+
+RewriteCond %{HTTP_REFERER} !^http://www.localhost$      [NC]
+
+RewriteRule .*\.(txt)$ http://localhost/404.php [R,NC]
+
+# pronto isso ai vai proteger os txt

@@ -1,0 +1,35 @@
+body {
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: white url(imgs/fundo.jpg) no-repeat fixed; background-size: cover;
+}
+
+#BNTdeslogar {
+	color: white;
+	font-size: 30px;
+	position: relative;
+}
+
+#BNTdeslogar_ancora {
+	position: relative;
+	float: right;
+	top: -5px;
+}
+
+
+#user_data_nxp {
+	color: white;
+	float: left;
+	position: relative;
+	top: 10px;
+}
+
+#caixa_user_data_nxp {
+	position: absolute;
+	right: 5px;
+}
+
+#assinatura {
+	position: absolute; right: 0;
+}
